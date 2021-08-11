@@ -30,21 +30,21 @@ Apart from all the necessary race/class/background/etc information, you will nee
 as well as the odd:
 
 \<style>
-  \.phb{
-    \width : 210mm;
-    \height : 296.8mm;
-  \}
-\</style>
+<br>  \.phb{
+<br>    \width : 210mm;
+<br>    \height : 296.8mm;
+<br>  \}
+<br>\</style>
 
 and
 
 \<div style='margin-top:40px'></div>
-\<div style='margin-top:6px'></div>
+<br>\<div style='margin-top:6px'></div>
 
 and
 
 \<div style="text-align: center">
-\</div>
+<br>\</div>
 
 
 blocks.
