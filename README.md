@@ -30,22 +30,22 @@ Apart from all the necessary race/class/background/etc information, you will nee
 a lot of <br>, /page, and &nbsp; tags
 as well as the odd:
 
-"<style>
+<style>
   .phb{
     width : 210mm;
     height : 296.8mm;
   }
-</style>"
+</style>
 
 and
 
-"<div style='margin-top:40px'></div>
-<div style='margin-top:6px'></div>"
+///<div style='margin-top:40px'></div>
+///<div style='margin-top:6px'></div>
 
 and
 
-"<div style="text-align: center">
-</div>"
+///<div style="text-align: center">
+///</div>
 
 
 blocks.
