@@ -31,7 +31,7 @@
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per artificer level after 1st
 
 #### Proficiencies
-**Armor:** Light armor, medium armor, shields<br>
+**Armour:** Light armour, medium armour, shields<br>
 **Weapons:** Simple weapons<br>
 **Tools:** Thieves’ tools, tinker’s tools, one type of artisan’s tools of your choice<br>
 **Saving Throws:** Constitution, Intelligence<br>
