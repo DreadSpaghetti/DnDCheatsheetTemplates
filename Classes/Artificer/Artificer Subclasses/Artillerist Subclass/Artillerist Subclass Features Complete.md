@@ -25,14 +25,10 @@
 | 20th | +6 | Soul of Artifice | 12 | 6 | 4 | 4 | 3 | 3 | 3 | 2 |
 </div>
 
-
-
 #### Hit Points
 **Hit Dice:** 1d8 per artificer level<br>
 **Hit Points at 1st Level:** 8 + your Constitution modifier<br>
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per artificer level after 1st
-
-
 
 #### Proficiencies
 **Armor:** Light armour, medium armour, shields<br>
@@ -40,8 +36,6 @@
 **Tools:** Thieves’ tools, tinker’s tools, one type of artisan’s tools of your choice<br>
 **Saving Throws:** Constitution, Intelligence<br>
 **Skills:** Choose two from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight of Hand
-
-
 
 #### Firearm Proficiency (optional tcoe)
 The secrets of gunpowder weapons have been discovered in various corners of the D&D
@@ -85,8 +79,6 @@ through objects. To observers, you don't appear to be casting spells in a
 conventional way; you appear to produce wonders from mundane items and outlandish
 inventions.
 
-
-
 #### Tools Required
 You produce your artificer spell effects through your tools. You must have a
 spellcasting focus-specifically thieves' tools or some kind of artisan's tool-in hand
@@ -98,8 +90,6 @@ tools.
 After you gain the Infuse Item feature at 2nd level, you can also use any item
 bearing one of your infusions as a spellcasting focus.
 
-
-
 #### Cantrips (0-Level Spells)
 At 1st level, you know two cantrips of your choice from the artificer spell list. At
 higher levels, you learn additional artificer can trips of your choice, as shown in
@@ -107,8 +97,6 @@ the Cantrips Known column of the Artificer table.
 
 When you gain a level in this class, you can replace one of the artificer cantrips
 you know with another cantrip from the artificer spell list.
-
-
 
 #### Preparing and Casting Spells
 The Artificer table shows how many spell slots you have to cast your artificer
@@ -131,8 +119,6 @@ You can change your list of prepared spells when you finish a long rest. Prepari
 new list of artificer spells requires time spent tinkering with your spellcasting
 focuses: at least 1 minute per spell level for each spell on your list.
 
-
-
 #### Spellcasting Ability
 Intelligence is your spellcasting ability for your artificer spells; your
 understanding of the theory behind magic allows you to wield these spells with
@@ -146,8 +132,6 @@ Spell save DC = 8 + your proficiency bonus + your Intelligence modifier
 
 Spell attack modifier = your proficiency bonus + your Intelligence modifier
 </div>
-
-
 
 #### Ritual Casting
 You can cast an artificer spell as a ritual if that spell has the ritual tag and you
@@ -199,10 +183,14 @@ build a more peaceful world by using their powers to fight the resurgence of str
 The world-hopping gnome artificer Vi has been especially vocal about making things
 right: "It's about time we fixed things instead of blowing them all to hell."
 
+
+
 ### Tool Proficiency
 When you adopt this specialization at 3rd level, you gain proficiency with
 woodcarver's tools. If you already have this proficiency, you gain proficiency with
 one other type of artisan's tools of your choice.
+
+
 
 ### Artillerist Spells
 Starting at 3rd level, you always have certain spells prepared after you reach
@@ -218,6 +206,8 @@ artificer spells you prepare.
 | 9th | *Fireball, Wind Wall* |
 | 13th | *Ice Storm, Wall of Fire* |
 | 17th | *Cone of Cold, Wall of Force* |
+
+
 
 ### Eldritch Cannon
 Also at 3rd level, you've learned how to create a magical cannon. Using woodcarver's
