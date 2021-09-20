@@ -4,16 +4,16 @@ An Alchemist is an expert at combining reagents to produce mystical effects.
 Alchemists use their creations to give life and to leech it away. Alchemy is the
 oldest of artificer traditions, and its versatility has long been valued during times
 of war and peace.
-```
 
-```
+
+
 ### Tool Proficiency
 When you adopt this specialization at 3rd level, you gain proficiency with
 alchemist's supplies. If you already have this proficiency, you gain proficiency
 with one other type of artisan's tools of your choice.
-```
 
-```
+
+
 ### Alchemist Spells
 Starting at 3rd level, you always have certain spells prepared after you reach
 particular levels in this class, as shown in the Alchemist Spells table. These spells
@@ -28,9 +28,9 @@ artificer spells you prepare.
 | 9th | *Gaseous Form, Mass Healing Word* |
 | 13th | *Blight, Death Ward* |
 | 17th | *Cloudkill, Raise Dead* |
-```
 
-```
+
+
 ### Experimental Elixir
 Beginning at 3rd level, whenever you finish a long rest, you can magically produce an
 *experimental elixir* in an empty flask you touch. Roll on the Experimental Elixir
