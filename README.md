@@ -19,7 +19,7 @@ One Grung Above\
 \
 \
 \
-This is a repository of the necessary markup used to create nice and simple cheat sheets for D&D fifth edition characters.
+This is a repository of the necessary markdown used to create nice and simple cheat sheets for D&D fifth edition characters.
 \
 \
 Just copy-paste the text directly into the homebrewery (https://homebrewery.naturalcrit.com/new),
