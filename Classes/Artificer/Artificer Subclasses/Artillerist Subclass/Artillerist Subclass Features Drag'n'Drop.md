@@ -7,10 +7,14 @@ build a more peaceful world by using their powers to fight the resurgence of str
 The world-hopping gnome artificer Vi has been especially vocal about making things
 right: "It's about time we fixed things instead of blowing them all to hell."
 
+
+
 ### Tool Proficiency
 When you adopt this specialization at 3rd level, you gain proficiency with
 woodcarver's tools. If you already have this proficiency, you gain proficiency with
 one other type of artisan's tools of your choice.
+
+
 
 ### Artillerist Spells
 Starting at 3rd level, you always have certain spells prepared after you reach
@@ -26,6 +30,8 @@ artificer spells you prepare.
 | 9th | *Fireball, Wind Wall* |
 | 13th | *Ice Storm, Wall of Fire* |
 | 17th | *Cone of Cold, Wall of Force* |
+
+
 
 ### Eldritch Cannon
 Also at 3rd level, you've learned how to create a magical cannon. Using woodcarver's
