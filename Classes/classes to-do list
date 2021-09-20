@@ -1,3 +1,4 @@
+Artificer
 Base Spell List
   Armourer Complete Features
   Armourer Subclass Spell List
@@ -10,7 +11,8 @@ Base Spell List
   Battle Smith Complete Features
   Battle Smith Subclass Spell List
 
-Barbarian Base Class
+Barbarian
+Base Class
   Ancestral Guardian Drag and Drop
   Ancestral Guardian Complete Features
   
@@ -35,7 +37,8 @@ Barbarian Base Class
   Zealot Drag and Drop
   Zealot Complete Features
 
-Bard Base Class
+Bard
+Base Class
 Base Spell List
   Creation Drag and Drop
   Creation Complete Features
@@ -69,7 +72,8 @@ Base Spell List
   Whispers Complete Features
   Whispers Subclass Spell List
 
-Cleric Base Class
+Cleric
+Base Class
 Base Spell List
   Arcana Drag and Drop
   Arcana Complete Features
@@ -127,7 +131,8 @@ Base Spell List
   War Complete Features
   War Subclass Spell List
 
-Druid Base Class
+Druid
+Base Class
 Base Spell List
   Dreams Drag and Drop
   Dreams Complete Features
@@ -157,7 +162,8 @@ Base Spell List
   Wildfire Complete Features
   Wildfire Subclass Spell List
 
-Fighter Base Class
+Fighter
+Base Class
   Arcane Archer Drag and Drop
   Arcane Archer Complete Features
   
@@ -187,7 +193,8 @@ Fighter Base Class
   Samurai Drag and Drop
   Samurai Complete Features
 
-Monk Base Class
+Monk
+Base Class
   Mercy Drag and Drop
   Mercy Complete Features
   
@@ -216,7 +223,8 @@ Monk Base Class
   Sun Soul Drag and Drop
   Sun Soul Complete Features
 
-Paladin Base Class
+Paladin
+Base Class
 Base Spell List
   Ancients Drag and Drop
   Ancients Complete Features
@@ -254,7 +262,8 @@ Base Spell List
   Oathbreaker Complete Features
   Oathbreaker Subclass Spell List
 
-Ranger Base Class
+Ranger
+Base Class
 Base Spell List
   Beast Master Drag and Drop
   Beast Master Complete Features
@@ -284,44 +293,38 @@ Base Spell List
   Swarmkeeper Complete Features
   Swarmkeeper Subclass Spell List
 
-Rogue Base Class
+Rogue
+Base Class
   Arcane Trickster Drag and Drop
   Arcane Trickster Complete Features
   Arcane Trickster Subclass Spell List
   
   Assassin Drag and Drop
   Assassin Complete Features
-  Assassin Subclass Spell List
   
   Inquisitive Drag and Drop
   Inquisitive Complete Features
-  Inquisitive Subclass Spell List
   
   Mastermind Drag and Drop
   Mastermind Complete Features
-  Mastermind Subclass Spell List
   
   Phantom Drag and Drop
   Phantom Complete Features
-  Phantom Subclass Spell List
   
   Scout Drag and Drop
   Scout Complete Features
-  Scout Subclass Spell List
   
   Soulknife Drag and Drop
   Soulknife Complete Features
-  Soulknife Subclass Spell List
   
   Swashbuckler Drag and Drop
   Swashbuckler Complete Features
-  Swashbuckler Subclass Spell List
   
   Thief Drag and Drop
   Thief Complete Features
-  Thief Subclass Spell List
 
-Sorceror Base Class
+Sorceror
+Base Class
 Base Spell List
   Aberrant Mind Drag and Drop
   Aberrant Mind Complete Features
@@ -351,7 +354,8 @@ Base Spell List
   Wild Magic Complete Features
   Wild Magic Subclass Spell List
 
-Warlock Base Class
+Warlock
+Base Class
 Base Spell List
 Eldritch Invocations List
   Archfey Drag and Drop
@@ -390,7 +394,8 @@ Eldritch Invocations List
   Undying Complete Features
   Undying Subclass Spell List
 
-Wizard Base Class
+Wizard
+Base Class
 Base Spell List
   Abjuration Drag and Drop
   Abjuration Complete Features
