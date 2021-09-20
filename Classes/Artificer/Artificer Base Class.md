@@ -25,14 +25,10 @@
 | 20th | +6 | Soul of Artifice | 12 | 6 | 4 | 4 | 3 | 3 | 3 | 2 |
 </div>
 
-
-
 #### Hit Points
 **Hit Dice:** 1d8 per artificer level<br>
 **Hit Points at 1st Level:** 8 + your Constitution modifier<br>
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per artificer level after 1st
-
-
 
 #### Proficiencies
 **Armor:** Light armor, medium armor, shields<br>
@@ -40,8 +36,6 @@
 **Tools:** Thieves’ tools, tinker’s tools, one type of artisan’s tools of your choice<br>
 **Saving Throws:** Constitution, Intelligence<br>
 **Skills:** Choose two from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight of Hand
-
-
 
 #### Firearm Proficiency (optional tcoe)
 The secrets of gunpowder weapons have been discovered in various corners of the D&D
