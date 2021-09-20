@@ -5,19 +5,19 @@
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1st | +2 | Magical Tinkering, Spellcasting | - | - | 2 | 2 | - | - | - | - |
 | 2nd | +2 | Infuse Item | 4 | 2 | 2 | 2 | - | - | - | - |
-| 3rd | +2 | Artificer Specialist, The Right Tool for the Job | 4 | 2 | 2 | 3 | - | - | - | - |
+| 3rd | +2 | Tool Proficiency, Alchemist Spells, Experimental Elixir, The Right Tool for the Job | 4 | 2 | 2 | 3 | - | - | - | - |
 | 4th | +2 | Ability Score Improvement | 4 | 2 | 2 | 3 | - | - | - | - |
-| 5th | +3 | Artificer Specialist feature | 4 | 2 | 2 | 4 | 2 | - | - | - |
+| 5th | +3 | Alchemical Savant | 4 | 2 | 2 | 4 | 2 | - | - | - |
 | 6th | +3 | Tool Expertise | 6 | 3 | 2 | 4 | 2 | - | - | - |
 | 7th | +3 | Flash of Genius | 6 | 3 | 2 | 4 | 3 | - | - | - |
 | 8th | +3 | Ability Score Improvement | 6 | 3 | 2 | 4 | 3 | - | - | - |
-| 9th | +4 | Artificer Specialist feature | 6 | 3 | 2 | 4 | 3 | 2 | - | - |
+| 9th | +4 | Restorative Reagents | 6 | 3 | 2 | 4 | 3 | 2 | - | - |
 | 10th | +4 | Magic Item Adept | 8 | 4 | 3 | 4 | 3 | 2 | - | - |
 | 11th | +4 | Spell-Storing Item | 8 | 4 | 3 | 4 | 3 | 3 | - | - |
 | 12th | +4 | Ability Score Improvement | 8 | 4 | 3 | 4 | 3 | 3 | - | - |
 | 13th | +5 | - | 8 | 4 | 3 | 4 | 3 | 3 | 1 | - |
 | 14th | +5 | Magic Item Savant | 10 | 5 | 4 | 4 | 3 | 3 | 1 | - |
-| 15th | +5 | Artificer Specialist feature | 10 | 5 | 4 | 4 | 3 | 3 | 2 | - |
+| 15th | +5 | Chemical Mastery | 10 | 5 | 4 | 4 | 3 | 3 | 2 | - |
 | 16th | +5 | Ability Score Improvement | 10 | 5 | 4 | 4 | 3 | 3 | 2 | - |
 | 17th | +6 | - | 10 | 5 | 4 | 4 | 3 | 3 | 3 | 1 |
 | 18th | +6 | Magic Item Master | 12 | 6 | 4 | 4 | 3 | 3 | 3 | 1 |
@@ -191,7 +191,7 @@ contents harmlessly appear in and around its space.
 
 
 
-### Alchemist
+## Alchemist
 An Alchemist is an expert at combining reagents to produce mystical effects.
 Alchemists use their creations to give life and to leech it away. Alchemy is the
 oldest of artificer traditions, and its versatility has long been valued during times
