@@ -1,5 +1,5 @@
 ```
-### Armourer
+## Armourer
 An artificer who specializes as an Armourer modifies armour to function almost like a
 second skin. The armour is enhanced to hone the artificer's magic, unleash potent
 attacks, and generate a formidable defense. The artificer bonds with this armour,
