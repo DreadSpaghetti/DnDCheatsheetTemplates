@@ -1,6 +1,6 @@
 ```
 <div class = 'classTable'>
-##### The Fighter: "Subclass Name"
+##### The Fighter: Subclass Name
 | Level | Proficiency<br>Bonus | Features |
 |:---:|:---:|:---|
 | 1st | +2 | Fighting Style, Second Wind |
