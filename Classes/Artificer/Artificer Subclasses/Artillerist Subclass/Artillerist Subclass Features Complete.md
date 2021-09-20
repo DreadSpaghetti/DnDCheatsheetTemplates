@@ -1,6 +1,6 @@
 ```
 <div class='classTable wide'>
-##### The Artificer: Subclass Name
+##### The Artificer: Artillerist
 | Level	| Proficiency Bonus | Features | Infusions Known | Infused Items | Cantrips Known | 1st&nbsp;&nbsp; | 2nd&nbsp;&nbsp; | 3rd&nbsp;&nbsp; | 4th&nbsp;&nbsp; | 5th&nbsp;&nbsp; |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1st | +2 | Magical Tinkering, Spellcasting | - | - | 2 | 2 | - | - | - | - |
@@ -35,7 +35,7 @@
 
 
 #### Proficiencies
-**Armor:** Light armor, medium armor, shields<br>
+**Armor:** Light armour, medium armour, shields<br>
 **Weapons:** Simple weapons<br>
 **Tools:** Thieves’ tools, tinker’s tools, one type of artisan’s tools of your choice<br>
 **Saving Throws:** Constitution, Intelligence<br>
