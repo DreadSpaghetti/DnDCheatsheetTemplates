@@ -36,6 +36,8 @@ once, extending the fighter's reach in combat. These knights learn a comparative
 small number of spells, committing them to memory instead of keeping them in a
 spellbook.
 
+
+
 ### Spellcasting
 When you reach 3rd level, you augment your martial prowess with the ability to cast
 spells.
@@ -83,6 +85,8 @@ an attack roll with one.
 
 **Spell attack modifier** = your proficiency bonus + your Intelligence modifier
 </div>
+
+
 
 ### Weapon Bond
 At 3rd level, you learn a ritual that creates a magical bond between yourself and one
