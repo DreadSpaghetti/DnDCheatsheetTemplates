@@ -4,6 +4,8 @@ The archetypal Champion focuses on the development of raw physical power honed t
 deadly perfection. Those who model themselves on this archetype combine rigorous
 training with physical excellence to deal devastating blows.
 
+
+
 ### Improved Critical
 Beginning when you choose this archetype at 3rd level, your weapon attacks score a
 critical hit on a roll of 19 or 20.
