@@ -7,10 +7,14 @@ their charge from harm, often serving as the protectors of their superiors and o
 the weak. Compelled to right wrongs or earn prestige, many of these fighters leave
 their lives of comfort to embark on glorious adventure.
 
+
+
 ### Bonus Proficiency
 When you choose this archetype at 3rd level, you gain proficiency in one of the
 following skills of your choice: Animal Handling, History, Insight, Performance, or
 Persuasion. Alternatively, you learn one language of your choice.
+
+
 
 ### Born to the Saddle
 Starting at 3rd level, your mastery as a rider becomes apparent. You have advantage
@@ -20,6 +24,8 @@ incapacitated.
 
 Finally, mounting or dismounting a creature costs you only 5 feet of movement,
 rather than half your speed.
+
+
 
 ### Unwavering Mark
 Starting at 3rd level, you can menace your foes, foiling their attacks and
