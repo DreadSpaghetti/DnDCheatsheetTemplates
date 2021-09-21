@@ -128,9 +128,9 @@ the saving throw DC for an artificer spell you cast and when making an attack ro
 with one.
 
 <div style="text-align: center">
-Spell save DC = 8 + your proficiency bonus + your Intelligence modifier
+**Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
 
-Spell attack modifier = your proficiency bonus + your Intelligence modifier
+**Spell attack modifier** = your proficiency bonus + your Intelligence modifier
 </div>
 
 #### Ritual Casting
