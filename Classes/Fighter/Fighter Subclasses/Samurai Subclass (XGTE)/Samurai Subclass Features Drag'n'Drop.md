@@ -4,10 +4,14 @@ The Samurai is a fighter who draws on an implacable fighting spirit to overcome
 enemies. A samurai’s resolve is nearly unbreakable, and the enemies in a samurai’s
 path have two choices: yield or die fighting.
 
+
+
 ### Bonus Proficiency
 When you choose this archetype at 3rd level, you gain proficiency in one of the
 following skills of your choice: History, Insight, Performance, or Persuasion.
 Alternatively, you learn one language of your choice.
+
+
 
 ### Fighting Spirit
 Starting at 3rd level, your intensity in battle can shield you and help you strike
