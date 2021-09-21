@@ -14,6 +14,8 @@ Banneret serves as the generic name for the Purple Dragon Knight archetype if yo
 use it in campaign settings other than the Forgotten Realms or to model warlords
 other than Purple Dragon Knights.
 
+
+
 ### Rallying Cry
 When you choose this archetype at 3rd level, you learn how to inspire your allies
 to fight on past their injuries.
