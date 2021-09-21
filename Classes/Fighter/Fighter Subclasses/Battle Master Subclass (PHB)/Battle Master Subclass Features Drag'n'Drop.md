@@ -7,6 +7,8 @@ fighter absorbs the lessons of history, theory, and artistry that are reflected 
 the Battle Master archetype, but those who do are well-rounded fighters of great
 skill and knowledge.
 
+
+
 ### Combat Superiority
 When you choose this archetype at 3rd level, you learn maneuvers that are fueled by
 special dice called superiority dice.
@@ -28,6 +30,8 @@ to resist the maneuver's effects. The saving throw DC is calculated as follows:
 modifier
 (your choice)
 </div>
+
+
 
 ### Student of War
 At 3rd level, you gain proficiency with one type of artisan's tools of your choice.
