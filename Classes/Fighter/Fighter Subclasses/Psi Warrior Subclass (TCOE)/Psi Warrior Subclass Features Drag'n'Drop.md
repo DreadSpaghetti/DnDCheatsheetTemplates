@@ -10,6 +10,8 @@ As a Psi Warrior, you might have honed your psionic abilities through solo
 discipline, unlocked it under the tutelage of a master, or refined it at an academy
 dedicated to wielding the mind's power as both weapon and shield.
 
+
+
 ### Psionic Power
 At 3rd level, you harbor a wellspring of psionic energy within yourself. This
 energy is represented by your Psionic Energy dice, which are each a d6. You have a
