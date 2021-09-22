@@ -5,7 +5,7 @@
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1st | +2 | Magical Tinkering, Spellcasting | - | - | 2 | 2 | - | - | - | - |
 | 2nd | +2 | Infuse Item | 4 | 2 | 2 | 2 | - | - | - | - |
-| 3rd | +2 | Armourer, Tools of The Trade, Armourer Spells, Arcan Armour, Armour Model, The Right Tool for the Job | 4 | 2 | 2 | 3 | - | - | - | - |
+| 3rd | +2 | Armourer, Tools of The Trade, Armourer Spells, Arcane Armour, Armour Model, The Right Tool for the Job | 4 | 2 | 2 | 3 | - | - | - | - |
 | 4th | +2 | Ability Score Improvement | 4 | 2 | 2 | 3 | - | - | - | - |
 | 5th | +3 | Extra Attack | 4 | 2 | 2 | 4 | 2 | - | - | - |
 | 6th | +3 | Tool Expertise | 6 | 3 | 2 | 4 | 2 | - | - | - |
@@ -51,16 +51,17 @@ use this ability, you must have thieves' tools or artisan's tools in hand. You t
 touch a Tiny nonmagical object as an action and give it one of the following magical
 properties of your choice:
 
-The object sheds bright light in a 5-foot radius and dim light for an additional 5
+- The object sheds bright light in a 5-foot radius and dim light for an additional 5
 feet.
-Whenever tapped by a creature, the object emits a recorded message that can be heard
+- Whenever tapped by a creature, the object emits a recorded message that can be heard
 up to 10 feet away. You utter the message when you bestow this property on the
 object, and the recording can be no more than 6 seconds long.
-The object continuously emits your choice of an odor or a nonverbal sound (wind,
+- The object continuously emits your choice of an odor or a nonverbal sound (wind,
 waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.
-A static visual effect appears on one of the object's surfaces. This effect can be a
+- A static visual effect appears on one of the object's surfaces. This effect can be a
 picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as
 you like.
+
 The chosen property lasts indefinitely. As an action, you can touch the object and
 end the property early.
 
