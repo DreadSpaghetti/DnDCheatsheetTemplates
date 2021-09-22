@@ -1,4 +1,31 @@
 ```
+<div class = 'classTable'>
+##### The Fighter: Arcane Archer
+| Level | Proficiency<br>Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +2 | Fighting Style, Second Wind |
+| 2nd | +2 | Action Surge (one use) |
+| 3rd | +2 | Arcane Archer, Arcane Archer Lore, Arcane Shot (2 options) |
+| 4th | +2 | Ability Score Improvement, Martial Versatility (optional) |
+| 5th | +3 | Extra Attack |
+| 6th | +3 | Ability Score Improvement, Martial Versatility (optional) |
+| 7th | +3 | Curving Shot, Magic Arrow, Arcane Shot (3 options) |
+| 8th | +3 | Ability Score Improvement, Martial Versatility (optional) |
+| 9th | +4 | Indomitable (one use) |
+| 10th | +4 | Arcane Shot (4 options) |
+| 11th | +4 | Extra Attack (2) |
+| 12th | +4 | Ability Score Improvement, Martial Versatility (optional) |
+| 13th | +5 | Indomitable (two uses) |
+| 14th | +5 | Ability Score Improvement, Martial Versatility (optional) |
+| 15th | +5 | Ever-Ready Shot, Arcane Shot (5 options) |
+| 16th | +5 | Ability Score Improvement, Martial Versatility (optional) |
+| 17th | +6 | Action Surge (two uses), Indomitable<br>(three uses) |
+| 18th | +6 | Arcane Shot (6 options, improved shots) |
+| 19th | +6 | Ability Score Improvement, Martial Versatility (optional) |
+| 20th | +6 | Extra Attack (3) |
+</div>
+```
+```
 ## Arcane Archer
 An Arcane Archer studies a unique elven method of archery that weaves magic into
 attacks to produce supernatural effects. Arcane Archers are some of their most elite

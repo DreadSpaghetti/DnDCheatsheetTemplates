@@ -1,4 +1,31 @@
 ```
+<div class = 'classTable'>
+##### The Fighter: Rune Knight
+| Level | Proficiency<br>Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +2 | Fighting Style, Second Wind |
+| 2nd | +2 | Action Surge (one use) |
+| 3rd | +2 | Rune Knight, Bonus Proficiencies, Rune Carver (2 options), Giant's Might |
+| 4th | +2 | Ability Score Improvement, Martial Versatility (optional) |
+| 5th | +3 | Extra Attack |
+| 6th | +3 | Ability Score Improvement, Martial Versatility (optional) |
+| 7th | +3 | Runic Shield, Rune Carver (3 options) |
+| 8th | +3 | Ability Score Improvement, Martial Versatility (optional) |
+| 9th | +4 | Indomitable (one use) |
+| 10th | +4 | Great Stature, Rune Carver (4 options) |
+| 11th | +4 | Extra Attack (2) |
+| 12th | +4 | Ability Score Improvement, Martial Versatility (optional) |
+| 13th | +5 | Indomitable (two uses) |
+| 14th | +5 | Ability Score Improvement, Martial Versatility (optional) |
+| 15th | +5 | Master of Runes, Rune Carver (5 options) |
+| 16th | +5 | Ability Score Improvement, Martial Versatility (optional) |
+| 17th | +6 | Action Surge (two uses), Indomitable<br>(three uses) |
+| 18th | +6 | Runic Juggernaut |
+| 19th | +6 | Ability Score Improvement, Martial Versatility (optional) |
+| 20th | +6 | Extra Attack (3) |
+</div>
+```
+```
 ## Rune Knight
 Rune Knights enhance their martial prowess using the supernatural power of runes,
 an ancient practice that originated with giants. Rune cutters can be found among
@@ -21,6 +48,14 @@ runes of your choice, from among the runes described below, and each time you ga
 a level in this class, you can replace one rune you know with a different one from
 this feature. When you reach certain levels in this class, you learn additional
 runes, as shown in the Runes Known table.
+
+##### Runes Known	
+| Fighter Level | Number of Runes |
+|:---:|:---:|
+| 3rd | 2 |
+| 7th | 3 |
+| 10th | 4 |
+| 15th | 5 |
 
 Whenever you finish a long rest, you can touch a number of objects equal to the
 number of runes you know, and you inscribe a different rune onto each of the
@@ -106,7 +141,7 @@ you finish a short or long rest.
 
 
 
-### Giant Might
+### Giant's Might
 At 3rd level, you have learned how to imbue yourself with the might of giants. As a
 bonus action, you magically gain the following benefits, which last for 1 minute:
 
@@ -118,15 +153,6 @@ can deal an extra 1d6 damage to a target on a hit.
 
 You can use this feature a number of times equal to your proficiency bonus, and you
 regain all expended uses of it when you finish a long rest.
-```
-```
-##### Runes Known	
-| Fighter Level | Number of Runes |
-|:---:|:---:|
-| 3rd | 2 |
-| 7th | 3 |
-| 10th | 4 |
-| 15th | 5 |
 ```
 ```
 ### Runic Shield

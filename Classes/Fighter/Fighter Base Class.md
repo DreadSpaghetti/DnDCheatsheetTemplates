@@ -24,7 +24,8 @@
 | 19th | +6 | Ability Score Improvement, Martial Versatility (optional) |
 | 20th | +6 | Extra Attack (3) |
 </div>
-
+```
+```
 #### Hit Points
 **Hit Dice:** 1d10 per fighter level
 **Hit Points at 1st Level:** 10 + your Constitution modifier

@@ -1,4 +1,31 @@
 ```
+<div class = 'classTable'>
+##### The Fighter: Cavalier
+| Level | Proficiency<br>Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +2 | Fighting Style, Second Wind |
+| 2nd | +2 | Action Surge (one use) |
+| 3rd | +2 | Cavalier, Bonus Proficiency, Born to the Saddle, Unwavering Mark |
+| 4th | +2 | Ability Score Improvement, Martial Versatility (optional) |
+| 5th | +3 | Extra Attack |
+| 6th | +3 | Ability Score Improvement, Martial Versatility (optional) |
+| 7th | +3 | Warding Maneuver |
+| 8th | +3 | Ability Score Improvement, Martial Versatility (optional) |
+| 9th | +4 | Indomitable (one use) |
+| 10th | +4 | Hold the Line |
+| 11th | +4 | Extra Attack (2) |
+| 12th | +4 | Ability Score Improvement, Martial Versatility (optional) |
+| 13th | +5 | Indomitable (two uses) |
+| 14th | +5 | Ability Score Improvement, Martial Versatility (optional) |
+| 15th | +5 | Ferocious Charger |
+| 16th | +5 | Ability Score Improvement, Martial Versatility (optional) |
+| 17th | +6 | Action Surge (two uses), Indomitable<br>(three uses) |
+| 18th | +6 | Vigilant Defender |
+| 19th | +6 | Ability Score Improvement, Martial Versatility (optional) |
+| 20th | +6 | Extra Attack (3) |
+</div>
+```
+```
 ## Cavalier
 The archetypal cavalier excels at mounted combat. Usually born among the nobility
 and raised at court, a cavalier is equally at home leading a cavalry charge or

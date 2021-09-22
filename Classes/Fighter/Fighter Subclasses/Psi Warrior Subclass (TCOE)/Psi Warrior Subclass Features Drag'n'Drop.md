@@ -1,4 +1,31 @@
 ```
+<div class = 'classTable'>
+##### The Fighter: Psi Warrior
+| Level | Proficiency<br>Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +2 | Fighting Style, Second Wind |
+| 2nd | +2 | Action Surge (one use) |
+| 3rd | +2 | Psi Warrior, Psionic Power (4d6) |
+| 4th | +2 | Ability Score Improvement, Martial Versatility (optional) |
+| 5th | +3 | Extra Attack, Psionic Power (6d8) |
+| 6th | +3 | Ability Score Improvement, Martial Versatility (optional) |
+| 7th | +3 | Telekinetic Adept |
+| 8th | +3 | Ability Score Improvement, Martial Versatility (optional) |
+| 9th | +4 | Indomitable (one use), Psionic Power (8d8) |
+| 10th | +4 | Guarded Mind |
+| 11th | +4 | Extra Attack (2), Psionic Power (8d10) |
+| 12th | +4 | Ability Score Improvement, Martial Versatility (optional) |
+| 13th | +5 | Indomitable (two uses), Psionic Power (10d10) |
+| 14th | +5 | Ability Score Improvement, Martial Versatility (optional) |
+| 15th | +5 | Bulwark of Force |
+| 16th | +5 | Ability Score Improvement, Martial Versatility (optional) |
+| 17th | +6 | Action Surge (two uses), Indomitable (three uses), Psionic Power (12d12) |
+| 18th | +6 | Telekinetic Master |
+| 19th | +6 | Ability Score Improvement, Martial Versatility (optional) |
+| 20th | +6 | Extra Attack (3) |
+</div>
+```
+```
 ## Psi Warrior
 Awake to the psionic power within, a Psi Warrior is a fighter who augments their
 physical might with psi-infused weapon strikes, telekinetic lashes, and barriers of

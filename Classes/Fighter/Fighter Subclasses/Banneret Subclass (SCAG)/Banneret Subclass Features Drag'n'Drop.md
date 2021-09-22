@@ -1,4 +1,31 @@
 ```
+<div class = 'classTable'>
+##### The Fighter: Banneret
+| Level | Proficiency<br>Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +2 | Fighting Style, Second Wind |
+| 2nd | +2 | Action Surge (one use) |
+| 3rd | +2 | Banneret, Rallying Cry |
+| 4th | +2 | Ability Score Improvement, Martial Versatility (optional) |
+| 5th | +3 | Extra Attack |
+| 6th | +3 | Ability Score Improvement, Martial Versatility (optional) |
+| 7th | +3 | Royal Envoy |
+| 8th | +3 | Ability Score Improvement, Martial Versatility (optional) |
+| 9th | +4 | Indomitable (one use) |
+| 10th | +4 | Inspiring Surge |
+| 11th | +4 | Extra Attack (2) |
+| 12th | +4 | Ability Score Improvement, Martial Versatility (optional) |
+| 13th | +5 | Indomitable (two uses) |
+| 14th | +5 | Ability Score Improvement, Martial Versatility (optional) |
+| 15th | +5 | Bulwark |
+| 16th | +5 | Ability Score Improvement, Martial Versatility (optional) |
+| 17th | +6 | Action Surge (two uses), Indomitable<br>(three uses) |
+| 18th | +6 | Inspiring Surge improvement |
+| 19th | +6 | Ability Score Improvement, Martial Versatility (optional) |
+| 20th | +6 | Extra Attack (3) |
+</div>
+```
+```
 ## Banneret
 A banneret is a knight who inspires greatness in others by committing brave deeds
 in battle. The mere presence of one in a hamlet is enough to cause some orcs and

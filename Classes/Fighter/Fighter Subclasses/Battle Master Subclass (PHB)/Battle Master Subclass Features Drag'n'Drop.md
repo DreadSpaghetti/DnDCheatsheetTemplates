@@ -1,4 +1,31 @@
 ```
+<div class = 'classTable'>
+##### The Fighter: Battle Master
+| Level | Proficiency<br>Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +2 | Fighting Style, Second Wind |
+| 2nd | +2 | Action Surge (one use) |
+| 3rd | +2 | Battle Master, Combat Superiority, Maneuvers (3 options), Superiority Dice (4d8), Student of War |
+| 4th | +2 | Ability Score Improvement, Martial Versatility (optional) |
+| 5th | +3 | Extra Attack |
+| 6th | +3 | Ability Score Improvement, Martial Versatility (optional) |
+| 7th | +3 | Know your Enemy, Maneuvers improvement (5 options), Superiority Dice improvement (5d8) |
+| 8th | +3 | Ability Score Improvement, Martial Versatility (optional) |
+| 9th | +4 | Indomitable (one use) |
+| 10th | +4 | Improved Combat Superiority (5d10), Maneuvers improvement (7 options) |
+| 11th | +4 | Extra Attack (2) |
+| 12th | +4 | Ability Score Improvement, Martial Versatility (optional) |
+| 13th | +5 | Indomitable (two uses) |
+| 14th | +5 | Ability Score Improvement, Martial Versatility (optional) |
+| 15th | +5 | Relentless, Maneuvers improvement (9 options), Superiority Dice improvement (6d10) |
+| 16th | +5 | Ability Score Improvement, Martial Versatility (optional) |
+| 17th | +6 | Action Surge (two uses), Indomitable<br>(three uses) |
+| 18th | +6 | Improved Combat Superiority improvement (6d12) |
+| 19th | +6 | Ability Score Improvement, Martial Versatility (optional) |
+| 20th | +6 | Extra Attack (3) |
+</div>
+```
+```
 ## Battle Master
 Those who emulate the archetypal Battle Master employ martial techniques passed down
 through generations. To a Battle Master, combat is an academic field, sometimes
@@ -52,11 +79,13 @@ choice:
 - Total class levels (if any)
 - Fighter class levels (if any)
 ```
+
 ```
 ### Improved Combat Superiority
 At 10th level, your superiority dice turn into d10s. At 18th level, they turn into
 d12s.
 ```
+
 ```
 ### Relentless
 Starting at 15th level, when you roll initiative and have no superiority dice
