@@ -31,8 +31,6 @@
 **Hit Points at 1st Level:** 10 + your Constitution modifier
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per fighter level after 1st
 
-
-
 #### Proficiencies
 **Armour:** All armour, shields<br>
 **Weapons:** Simple weapons, martial weapons<br>
