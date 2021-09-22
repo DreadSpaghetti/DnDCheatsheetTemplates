@@ -1,4 +1,31 @@
 ```
+<div class='classTable wide'>
+##### The Artificer: Alchemist
+| Level	| Proficiency Bonus | Features | Infusions Known | Infused Items | Cantrips Known | 1st&nbsp;&nbsp; | 2nd&nbsp;&nbsp; | 3rd&nbsp;&nbsp; | 4th&nbsp;&nbsp; | 5th&nbsp;&nbsp; |
+|:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1st | +2 | Magical Tinkering, Spellcasting | - | - | 2 | 2 | - | - | - | - |
+| 2nd | +2 | Infuse Item | 4 | 2 | 2 | 2 | - | - | - | - |
+| 3rd | +2 | Alchemist, Tool Proficiency, Alchemist Spells, Experimental Elixir (1), The Right Tool for the Job | 4 | 2 | 2 | 3 | - | - | - | - |
+| 4th | +2 | Ability Score Improvement | 4 | 2 | 2 | 3 | - | - | - | - |
+| 5th | +3 | Alchemical Savant | 4 | 2 | 2 | 4 | 2 | - | - | - |
+| 6th | +3 | Tool Expertise, Experimental Elixir (2) | 6 | 3 | 2 | 4 | 2 | - | - | - |
+| 7th | +3 | Flash of Genius | 6 | 3 | 2 | 4 | 3 | - | - | - |
+| 8th | +3 | Ability Score Improvement | 6 | 3 | 2 | 4 | 3 | - | - | - |
+| 9th | +4 | Restorative Reagents | 6 | 3 | 2 | 4 | 3 | 2 | - | - |
+| 10th | +4 | Magic Item Adept | 8 | 4 | 3 | 4 | 3 | 2 | - | - |
+| 11th | +4 | Spell-Storing Item | 8 | 4 | 3 | 4 | 3 | 3 | - | - |
+| 12th | +4 | Ability Score Improvement | 8 | 4 | 3 | 4 | 3 | 3 | - | - |
+| 13th | +5 | - | 8 | 4 | 3 | 4 | 3 | 3 | 1 | - |
+| 14th | +5 | Magic Item Savant | 10 | 5 | 4 | 4 | 3 | 3 | 1 | - |
+| 15th | +5 | Chemical Mastery, Experimental Elixir (3) | 10 | 5 | 4 | 4 | 3 | 3 | 2 | - |
+| 16th | +5 | Ability Score Improvement | 10 | 5 | 4 | 4 | 3 | 3 | 2 | - |
+| 17th | +6 | - | 10 | 5 | 4 | 4 | 3 | 3 | 3 | 1 |
+| 18th | +6 | Magic Item Master | 12 | 6 | 4 | 4 | 3 | 3 | 3 | 1 |
+| 19th | +6 | Ability Score Improvement | 12 | 6 | 4 | 4 | 3 | 3 | 3 | 2 |
+| 20th | +6 | Soul of Artifice | 12 | 6 | 4 | 4 | 3 | 3 | 3 | 2 |
+</div>
+```
+```
 ## Alchemist
 An Alchemist is an expert at combining reagents to produce mystical effects.
 Alchemists use their creations to give life and to leech it away. Alchemy is the
