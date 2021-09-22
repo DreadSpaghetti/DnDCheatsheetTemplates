@@ -1,5 +1,5 @@
 ```
-### Battle Master Maneuvers
+## Battle Master Maneuvers
 
 #### Ambush (tcoe)
 When you make a Dexterity (Stealth) check or an initiative roll, you can expend one
