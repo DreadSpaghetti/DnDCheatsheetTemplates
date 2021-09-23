@@ -1,6 +1,6 @@
 ```
 #### Shadar-Kai Traits
-<br>
+
 **Ability Score Increase.** Your Constitution score increases by 1.
 
 **Necrotic Resistance.** You have resistance to necrotic damage.
