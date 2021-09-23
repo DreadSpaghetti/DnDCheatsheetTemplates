@@ -1,6 +1,6 @@
 ```
 #### Mark of Shadow Elf Traits
-<br>
+
 **Ability Score Increase.** Your Charisma score increases by 1
 
 **Cunning Intuition.** Whenever you roll a Dexterity (Stealth) check or a Charisma
