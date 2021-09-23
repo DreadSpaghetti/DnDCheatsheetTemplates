@@ -1,6 +1,6 @@
 ```
 #### Sea Elf Traits
-<br>
+
 **Ability Score Increase.** Your Constitution score increases by 1.
 
 **Sea Elf Training.** You have proficiency with the spear, trident, light crossbow,
