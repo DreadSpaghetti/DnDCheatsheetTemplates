@@ -1,6 +1,6 @@
 ```
 #### High Elf Traits
-<br>
+
 **Ability Score Increase.** Your Intelligence score increases by 1.
 
 **Cantrip.** You know one cantrip of your choice from the Wizard spell list.
