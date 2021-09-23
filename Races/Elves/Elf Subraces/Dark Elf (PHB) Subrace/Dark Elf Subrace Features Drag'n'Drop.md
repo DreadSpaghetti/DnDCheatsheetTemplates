@@ -1,6 +1,6 @@
 ```
 #### Dark Elf Traits
-<br>
+
 **Ability Score Increase.** Your Charisma score increases by 1.
 
 **Superior Darkvision.** Your darkvision has a range of 120 feet, instead of 60.
