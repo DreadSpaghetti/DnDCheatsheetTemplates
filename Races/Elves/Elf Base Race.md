@@ -40,10 +40,7 @@ While meditating, you dream after a fashion; such dreams are actually mental
 exercises that have become reflexive after years of practice. After resting in this
 way, you gain the same benefit a human would from 8 hours of sleep.
 
-**Keen Senses.v You have proficiency in the Perception skill.
+**Keen Senses.** You have proficiency in the Perception skill.
 
 **Languages.** You can speak, read, and write Common and Elven.
-
-#### Elf Subrace Features
-
 ```
