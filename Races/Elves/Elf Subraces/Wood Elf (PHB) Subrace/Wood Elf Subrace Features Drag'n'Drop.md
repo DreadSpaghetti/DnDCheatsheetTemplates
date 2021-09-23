@@ -1,6 +1,6 @@
 ```
 #### Wood Elf Traits
-<br>
+
 **Ability Score Increase.** Your Wisdom score increases by 1.
 
 **Elf Weapon Training.** You have proficiency with the longsword, shortsword,
