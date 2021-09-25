@@ -1,7 +1,7 @@
 ```
-<div class = 'classTable'>
+{{classTable,frame
 ##### The Fighter: Battle Master
-| Level | Proficiency<br>Bonus | Features |
+| Level | Proficiency Bonus | Features |
 |:---:|:---:|:---|
 | 1st | +2 | Fighting Style, Second Wind |
 | 2nd | +2 | Action Surge (one use) |
@@ -23,7 +23,7 @@
 | 18th | +6 | Improved Combat Superiority improvement (6d12) |
 | 19th | +6 | Ability Score Improvement, Martial Versatility (optional) |
 | 20th | +6 | Extra Attack (3) |
-</div>
+}}
 ```
 ```
 ## Battle Master
@@ -52,11 +52,12 @@ and one more at 15th level.
 
 **Saving Throws.** Some of your maneuvers require your target to make a saving throw
 to resist the maneuver's effects. The saving throw DC is calculated as follows:
-<div style="text-align: center">
+
+{{text-align:center
 **Maneuver save DC** = 8 + your proficiency bonus + your Strength or Dexterity
 modifier
 (your choice)
-</div>
+}}
 
 
 
