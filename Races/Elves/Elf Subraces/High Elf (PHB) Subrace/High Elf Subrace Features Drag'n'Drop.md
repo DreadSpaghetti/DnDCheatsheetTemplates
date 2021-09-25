@@ -12,17 +12,17 @@ shortbow, and longbow.
 **Extra Language.** You can read, speak, and write one additional language of your
 choice.
 ```
+```
+{{wide
+### High Elf Racial Spell
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
+|:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
+
+}}
+```
 
 
 Wizard Cantrip options for High Elf Racial Spell
-```
-<div class='wide'>
-### High Elf Racial Spell
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
-|:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
-
-</div>
-```
 ```
 |0|Acid Splash|Conjuration|VS|1 Action|No|No|PHB pg.211|
 |0|Blade Ward|Abjuration|VS|1 Action|No|No|PHB pg.218|
