@@ -58,12 +58,12 @@ shortbow, and longbow.
 choice.
 ```
 ```
-<div class='wide'>
+{{wide
 ### High Elf Racial Spell
 |Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 
-</div>
+}}
 ```
 Wizard Cantrip options for High Elf Racial Spell
 ```
