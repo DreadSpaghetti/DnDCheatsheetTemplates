@@ -12,9 +12,10 @@ Unless an infusion's description says otherwise, you can't learn an infusion mor
 than once.
 
 #### Arcane Propulsion Armor
-*Prerequisite: 14th-level artificer<br><br>
-Item: A suit of armor (requires attunement)*<br>
-
+*Prerequisite: 14th-level artificer*
+___
+*Item: A suit of armor (requires attunement)*
+:
 The wearer of this armor gains these benefits:
 
 - The wearer's walking speed increases by 5 feet.
@@ -31,8 +32,8 @@ parts they replace.
 
 
 #### Armor of Magical Strength
-*Item: A suit of armor (requires attunement)*<br>
-
+*Item: A suit of armor (requires attunement)*
+:
 This armor has 6 charges. The wearer can expend the armor's charges in the following
 ways:
 
@@ -41,21 +42,23 @@ charge to add a bonus to the roll equal to its Intelligence modifier.
 - If the creature would be knocked prone, it can use its reaction to expend 1 charge
 to avoid being knocked prone.
 
+___
 The armor regains 1d6 expended charges daily at dawn.
 
 
 #### Boots of the Winding Path
-*Prerequisite: 6th-level artificer<br><br>
-Item: A pair of boots (requires attunement)*<br>
-
+*Prerequisite: 6th-level artificer*
+___
+*Item: A pair of boots (requires attunement)*
+:
 While wearing these boots, a creature can teleport up to 15 feet as a bonus action to
 an unoccupied space the creature can see. The creature must have occupied that space
 at some point during the current turn.
 
 
 #### Enhanced Arcane Focus
-*Item: A rod, staff or wand (requires attunement)*<br>
-
+*Item: A rod, staff or wand (requires attunement)*
+:
 While holding this item, a creature gains +1 bonus to spell attack rolls. In
 addition, the creature ignores half cover when making a spell attack.
 
@@ -63,8 +66,8 @@ The bonus increases to +2 when you reach 10th level in this class.
 
 
 #### Enhanced Defense
-*Item: A suit of armor or a shield*<br>
-
+*Item: A suit of armor or a shield*
+:
 A creature gains a +1 bonus to Armor Class while wearing (armor) or wielding (shield)
 the infused item.
 
@@ -80,16 +83,17 @@ The bonus increases to +2 when you reach 10th level in this class.
 
 
 #### Helm of Awareness
-*Prerequisite: 10th-level artificer<br><br>
-Item: A helmet (requires attunement)*<br>
-
+*Prerequisite: 10th-level artificer*
+___
+*Item: A helmet (requires attunement)*
+:
 While wearing this helmet, a creature has advantage on initiative rolls. In addition,
 the wearer can’t be surprised, provided it isn’t incapacitated.
 
 
 #### Homunculus Servant
-*Item: A gem or crystal worth at least 100 gp*<br>
-
+*Item: A gem or crystal worth at least 100 gp*
+:
 You learn intricate methods for magically creating a special homunculus that serves
 you. The item you infuse serves as the creature's heart, around which the creature's
 body instantly forms.
@@ -111,48 +115,50 @@ action of its choice, not just Dodge.
 The homunculus regains 2d6 hit points if the *mending* spell is cast on it. If you or
 the homunculus dies, it vanishes, leaving its heart in its space.
 
+{{monster,frame
+## Homunculus Servant
+*Tiny construct*
 ___
-> ## Homunculus Servant
->*Tiny construct*
-> ___
-> - **Armor Class** 13 (natural armour)
-> - **Hit Points** 1 + your Intelligence modifier + your artificer level (the
+- **Armor Class** 13 (natural armour)
+- **Hit Points** 1 + your Intelligence modifier + your artificer level (the
 homunculus has a number of Hit Dice [d4s] equal to your artificer level)
-> - **Speed** 20 ft., fly 30 ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|4 (-3)|15 (+5)|12 (+1)|10 (+0)|10 (+0)|7 (-2)|
->___
-> - **Saving Throws** Dex +2 plus PB
-> - **Damage Immunities** poison
-> - **Condition Immunities** exhaustion, poisoned
-> - **Senses** darkvision 60 ft., passive Perception 10 + (PB x 2)
-> - **Languages** understands the languages you speak
-> - **Challenge** -
-> - **Proficiency Bonus (BP)** equals your bonus
-> ___
-> ***Evasion.*** If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated.
->
-> ### Actions
-> ***Force Strike.*** Ranged Weapon Attack: your spell attack modifier to hit, range 30 ft., one target you can see. Hit: 1d4 + PB force damage.
->
-> ### Reactions
-> ***Channel Magic.*** The homunculus delivers a spell you cast that has a range of
+- **Speed** 20 ft., fly 30 ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|4 (-3)|15 (+5)|12 (+1)|10 (+0)|10 (+0)|7 (-2)|
+___
+- **Saving Throws** Dex +2 plus PB
+- **Damage Immunities** poison
+- **Condition Immunities** exhaustion, poisoned
+- **Senses** darkvision 60 ft., passive Perception 10 + (PB x 2)
+- **Languages** understands the languages you speak
+- **Challenge** -
+- **Proficiency Bonus (BP)** equals your bonus
+___
+***Evasion.*** If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated.
+
+### Actions
+***Force Strike.*** Ranged Weapon Attack: your spell attack modifier to hit, range 30 ft., one target you can see. Hit: 1d4 + PB force damage.
+
+### Reactions
+***Channel Magic.*** The homunculus delivers a spell you cast that has a range of
 touch. The homunculus must be within 120 feet of you.
+}}
 
-### Mind Sharpener<br>
+### Mind Sharpener
 *Item: A suit of armor or robes*
-
+:
 The infused item can send a jolt to the wearer to refocus their mind. The item has 4
 charges. When the wearer fails a Constitution saving throw to maintain concentration
 on a spell, the wearer can use its reaction to expend 1 of the item's charges to
 succeed instead. The item regains 1d4 expended charges daily at dawn.
 
-### Radiant Weapon<br>
-*Prerequisite: 6th-level artificer<br>
-Item: A simple or martial weapon (requires attunement)*
-
+### Radiant Weapon
+*Prerequisite: 6th-level artificer*
+___
+*Item: A simple or martial weapon (requires attunement)*
+:
 This magic weapon grants a + 1 bonus to attack and damage rolls made with it. While
 holding it, the wielder can take a bonus action to cause it to shed bright light in a
 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish
@@ -163,9 +169,9 @@ wielder can expend 1 charge and cause the attacker to be blinded until the end o
 attacker's next turn, unless the attacker succeeds on a Constitution saving throw
 against your spell save DC. The weapon regains 1d4 expended charges daily at dawn.
 
-### Repeating Shot<br>
+### Repeating Shot
 *Item: A simple or martial weapon with the ammunition property (requires attunement)*
-
+:
 This magic weapon grants a + 1 bonus to attack and damage rolls made with it when
 it's used to make a ranged attack, and it ignores the loading property if it has it.
 
@@ -173,7 +179,7 @@ If you load no ammunition in the weapon, it produces its own, automatically crea
 one piece of magic ammunition when you make a ranged attack with it. The ammunition
 created by the weapon vanishes the instant after it hits or misses a target.
 
-### Replicate Magic Item<br>
+### Replicate Magic Item
 Using this infusion, you replicate a particular magic item. You can learn this
 infusion multiple times; each time you do so, choose a magic item that you can make
 with it, picking from the Replicable Items tables. A table's title tells you the
@@ -259,9 +265,10 @@ infusion.
 | *Ring of the Ram* | Yes |
 
 ### Repulsion Shield
-*Prerequisite: 6th-level artificer<br>
-Item: A shield (requires attunement)*<br>
-
+*Prerequisite: 6th-level artificer*
+___
+*Item: A shield (requires attunement)*
+:
 A creature gains a +1 bonus to Armor Class while wielding this shield.
 
 The shield has 4 charges. While holding it, the wielder can use a reaction
@@ -270,24 +277,27 @@ push the attacker up to 15 feet away. The shield regains 1d4 expended charges da
 at dawn.
 
 ### Resistant Armor
-*Prerequisite: 6th-level artificer<br>
-Item: A suit of armor (requires attunement)*<br>
-
+*Prerequisite: 6th-level artificer*
+___
+*Item: A suit of armor (requires attunement)*
+:
 While wearing this armor, a creature has resistance to one of the following damage
 types, which you choose when you infuse the item: acid, cold, fire, force, lightning,
 necrotic, poison, psychic, radiant, or thunder.
 
 ### Returning Weapon
-*Item: A simple or martial weapon with the thrown property*<br>
-
+*Item: A simple or martial weapon with the thrown property*
+:
 This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it
 returns to the wielder’s hand immediately after it is used to make a ranged attack.
 
 ### Spell-Refueling Ring
-*Prerequisite: 6th-level artificer<br>
-Item: A ring (requires attunement)*<br>
-
+*Prerequisite: 6th-level artificer*
+___
+*Item: A ring (requires attunement)*
+:
 While wearing this ring, the creature can recover one expended spell slot as an
 action. The recovered slot can be of 3rd level or lower. Once used, the ring can't be
 used again until the next dawn.
+
 ```
