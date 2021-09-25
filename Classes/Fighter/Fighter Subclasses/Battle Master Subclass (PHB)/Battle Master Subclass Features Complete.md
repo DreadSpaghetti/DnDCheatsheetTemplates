@@ -1,7 +1,7 @@
 ```
-<div class = 'classTable'>
+{{classTable,frame
 ##### The Fighter: Battle Master
-| Level | Proficiency<br>Bonus | Features |
+| Level | Proficiency Bonus | Features |
 |:---:|:---:|:---|
 | 1st | +2 | Fighting Style, Second Wind |
 | 2nd | +2 | Action Surge (one use) |
@@ -23,19 +23,20 @@
 | 18th | +6 | Improved Combat Superiority improvement (6d12) |
 | 19th | +6 | Ability Score Improvement, Martial Versatility (optional) |
 | 20th | +6 | Extra Attack (3) |
-</div>
+}}
 
 #### Hit Points
-**Hit Dice:** 1d10 per fighter level
-**Hit Points at 1st Level:** 10 + your Constitution modifier
-**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per fighter level after 1st
+**Hit Dice:** :: 1d10 per fighter level
+**Hit Points at 1st Level:** :: 10 + your Constitution modifier
+**Hit Points at Higher Levels:** :: 1d10 (or 6) + your Constitution modifier per fighter level after 1st
 
 #### Proficiencies
-**Armour:** All armour, shields<br>
-**Weapons:** Simple weapons, martial weapons<br>
-**Tools:** None<br>
-**Saving Throws:** Strength, Constitution<br>
-**Skills:** Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
+**Armour:** :: All armour, shields
+**Weapons:** :: Simple weapons, martial weapons
+**Tools:** :: None
+:
+**Saving Throws:** :: Strength, Constitution
+**Skills:** :: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
 
 
 
@@ -150,13 +151,14 @@ and one more at 15th level.
 
 **Saving Throws.** Some of your maneuvers require your target to make a saving throw
 to resist the maneuver's effects. The saving throw DC is calculated as follows:
-<div style="text-align: center">
+
+{{text-align:center
 **Maneuver save DC** = 8 + your proficiency bonus + your Strength or Dexterity
 modifier
 (your choice)
-</div>
+}}
 
-
+:
 
 ### Student of War
 At 3rd level, you gain proficiency with one type of artisan's tools of your choice.
