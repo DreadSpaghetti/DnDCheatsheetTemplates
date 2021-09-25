@@ -27,14 +27,9 @@ while making the necessary changes every so often,
 to start making an oh-so-easy cheat sheet custom made for your character.
 \
 \
-Apart from all the necessary race/class/background/etc information, you will need to use a lot of ```<br>```, ```\page```, and ```&nbsp;``` tags
+Apart from all the necessary race/class/background/etc information, you will need to use a lot of ```<br>```, ```\column```, ```\page```, and ```&nbsp;``` tags
 as well as the odd:
 
-~~~
- ```
- ``` 
-~~~
-and
 ```
 <style>
   .phb{
