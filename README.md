@@ -45,7 +45,8 @@ and
 ```
 and
 ```
-<div style="text-align: center">
-</div>
+{{text-align:center
+
+}}
 ```
 blocks.
