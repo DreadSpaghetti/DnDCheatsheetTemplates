@@ -25,6 +25,9 @@
 | |**optional (tcoe)**| | | | | | |
 |1|Entangle|Conjuration|VS|1 Action|Yes|No|PHB pg.238|
 |1|Searing Smite|Evocation|V|1 Bonus Action|Yes|No|PHB pg.274|
+| |**Primal Awareness**| | | | | | |
+|1|Detect Magic|Divination|VS|1 Action|Yes|Yes|PHB pg.231|
+|1|Speak with Animals|Divination|VS|1 Action|No|Yes|PHB pg.277|
 
 ### 2nd Level Spells
 
@@ -50,6 +53,9 @@
 |2|Gust of Wind|Evocation|VSM|1 Action|Yes|No|PHB pg.248|
 |2|Magic Weapon|Transmutation|VS|1 Bonus Action|Yes|No|PHB pg.257|
 |2|Summon Beast|Conjuration|VSM|1 Action|Yes|No|TCOE pg.109|
+| |**Primal Awareness**| | | | | | |
+|2|Beast Sense|Divination|S|1 Action|Yes|Yes|PHB pg.217|
+|2|Locate Animals or Plants|Divination|VSM|1 Action|No|Yes|PHB pg.256|
 
 ### 3rd Level Spells
 
@@ -72,6 +78,8 @@
 |3|Meld into Stone|Transmutation|VS|1 Action|No|Yes|PHB pg.259|
 |3|Revivify|Necromancy|VSM(gp)|1 Action|No|No|PHB pg.272|
 |3|Summon Fey|Conjuration|VSM|1 Action|Yes|No|TCOE pg.112|
+| |**Primal Awareness**| | | | | | |
+|3|Speak with Plants|Transmutation|VS|1 Action|No|No|PHB pg.277|
 
 ### 4th Level Spells
 
@@ -86,6 +94,8 @@
 | |**optional (tcoe)**| | | | | | |
 |4|Dominate Beast|Enchantment|VS|1 Action|Yes|No|PHB pg.234|
 |4|Summon Elemental|Conjuration|VSM|1 Action|Yes|No|TCOE pg.111|
+| |**Primal Awareness**| | | | | | |
+|4|Locate Creature|Divination|VSM|1 Action|Yes|No|PHB pg.256|
 
 ### 5th Level Spells
 
@@ -99,5 +109,8 @@
 |5|Wrath of Nature|Evocation|VS|1 Action|Yes|No|XGTE pg.171|
 | |**optional (tcoe)**| | | | | | |
 |5|Greater Restoration|Abjuration|VSM(gp)|1 Action|No|No|PHB pg.246|
+| |**Primal Awareness**| | | | | | |
+|5|Commune with Nature|Divination|VS|1 Minute|No|Yes|PHB pg.224|
+
 }}
 ```
