@@ -1,6 +1,6 @@
 ```
 {{classTable,frame,wide
-##### The Ranger: Gloom Stalker
+##### The Ranger: Subclass Name
 | Level |Proficiency | Features | Spells |— Spell Slots per Spell Level —|||||
 |^| Bonus ^|^|Known^| 1st | 2nd | 3rd | 4th | 5th |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|
