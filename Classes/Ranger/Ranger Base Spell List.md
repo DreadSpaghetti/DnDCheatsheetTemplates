@@ -1,6 +1,6 @@
 ```
 {{wide
-# Ranger Spells List:
+# Ranger Spell List:
 ### 1st Level Spells
 
 |Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
