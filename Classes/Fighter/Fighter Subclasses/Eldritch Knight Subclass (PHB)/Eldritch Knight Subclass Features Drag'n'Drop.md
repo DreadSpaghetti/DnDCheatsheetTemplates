@@ -1,5 +1,5 @@
 ```
-<div class = 'classTable wide'>
+{{classTable,wide,frame
 ##### The Fighter: Eldritch Knight
 | Level | Proficiency<br>Bonus | Features |Cantrips<br>Known|Spells<br>Known|1st&nbsp;&nbsp;|2nd&nbsp;&nbsp;|3rd&nbsp;&nbsp;|4th&nbsp;&nbsp;|
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -23,7 +23,7 @@
 | 18th | +6 | Improved War Magic |3|11|4|3|3|-|
 | 19th | +6 | Ability Score Improvement, Martial Versatility (optional) |3|12|4|3|3|1|
 | 20th | +6 | Extra Attack (3) |3|13|4|3|3|1|
-</div>
+}}
 ```
 ```
 ## Eldritch Knight
@@ -45,15 +45,6 @@ spells.
 #### Cantrips
 You learn two cantrips of your choice from the wizard spell list. You learn an
 additional wizard cantrip of your choice at 10th level.
-
-#### Spell Slots
-The Eldritch Knight Spellcasting table shows how many spell slots you have to cast
-your wizard spells of 1st level and higher. To cast one of these spells, you must expend a
-slot of the spell's level or higher. You regain all expended spell slots when you
-finish a long rest.
-
-For example, if you know the 1st-level spell Shield and have a 1st-level and a
-2nd-level spell slot available, you can cast Shield using either slot.
 
 #### Spells Known of 1st Level and Higher
 You know three 1st-level wizard spells of your choice, two of which you must choose
@@ -80,11 +71,11 @@ spell refers to your spellcasting ability. In addition, you use your Intelligenc
 modifier when setting the saving throw DC for a wizard spell you cast and when making
 an attack roll with one.
 
-<div style="text-align: center">
+{{text-align:center
 **Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
 
 **Spell attack modifier** = your proficiency bonus + your Intelligence modifier
-</div>
+}}
 
 
 
