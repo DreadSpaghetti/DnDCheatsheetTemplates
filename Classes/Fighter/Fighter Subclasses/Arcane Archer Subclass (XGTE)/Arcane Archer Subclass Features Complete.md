@@ -1,5 +1,5 @@
 ```
-<div class = 'classTable'>
+{{classTable,frame
 ##### The Fighter: Arcane Archer
 | Level | Proficiency<br>Bonus | Features |
 |:---:|:---:|:---|
@@ -23,23 +23,22 @@
 | 18th | +6 | Arcane Shot (6 options, improved shots) |
 | 19th | +6 | Ability Score Improvement, Martial Versatility (optional) |
 | 20th | +6 | Extra Attack (3) |
-</div>
-
-
+}}
 
 #### Hit Points
-**Hit Dice:** 1d10 per fighter level
-**Hit Points at 1st Level:** 10 + your Constitution modifier
-**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per fighter level after 1st
-
+**Hit Dice:** :: 1d10 per fighter level
+**Hit Points at 1st Level:** :: 10 + your Constitution modifier
+**Hit Points at Higher Levels:** :: 1d10 (or 6) + your Constitution modifier per fighter level after 1st
+:
 #### Proficiencies
-**Armour:** All armour, shields<br>
-**Weapons:** Simple weapons, martial weapons<br>
-**Tools:** None<br>
-**Saving Throws:** Strength, Constitution<br>
-**Skills:** Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
+**Armour:** :: All armour, shields
+**Weapons:** :: Simple weapons, martial weapons
+**Tools:** :: None
+:
+**Saving Throws:** :: Strength, Constitution
+**Skills:** :: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
 
-
+:
 
 ### Fighting Style
 You adopt a particular style of fighting as your specialty. Choose one of the
