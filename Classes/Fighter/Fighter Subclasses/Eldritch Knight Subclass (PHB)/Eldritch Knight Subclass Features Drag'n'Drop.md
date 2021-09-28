@@ -48,7 +48,7 @@ additional wizard cantrip of your choice at 10th level.
 
 #### Spell Slots
 The Eldritch Knight Spellcasting table shows how many spell slots you have to cast
-your spells of 1st level and higher. To cast one of these spells, you must expend a
+your wizard spells of 1st level and higher. To cast one of these spells, you must expend a
 slot of the spell's level or higher. You regain all expended spell slots when you
 finish a long rest.
 
