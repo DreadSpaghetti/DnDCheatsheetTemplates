@@ -1,5 +1,5 @@
 ```
-<div class = 'classTable'>
+{{classTable,frame
 ##### The Fighter: Arcane Archer
 | Level | Proficiency<br>Bonus | Features |
 |:---:|:---:|:---|
@@ -23,7 +23,7 @@
 | 18th | +6 | Arcane Shot (6 options, improved shots) |
 | 19th | +6 | Ability Score Improvement, Martial Versatility (optional) |
 | 20th | +6 | Extra Attack (3) |
-</div>
+}}
 ```
 ```
 ## Arcane Archer
