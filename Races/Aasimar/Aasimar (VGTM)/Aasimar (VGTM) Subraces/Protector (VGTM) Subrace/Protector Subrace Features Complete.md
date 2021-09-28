@@ -42,6 +42,11 @@ Your aasimar character has the following racial traits.
 Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you have a flying speed of 30 feet, and once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.
 
 Once you use this trait, you can't use it again until you finish a long rest.
+
+##### Random Height and Weight:
+| Base Height | Base Weight | Height Modifier | Weight Modifier |
+|:---:|:---:|:---:|:---:|
+| 4'8" | 110 lb. | +2d10 | x(2d4) lb. |
 ```
 ```
 {{wide
