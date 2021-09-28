@@ -42,6 +42,11 @@ Your aasimar character has the following racial traits.
 Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take radiant damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.
 
 Once you use this trait, you can't use it again until you finish a long rest.
+
+##### Random Height and Weight:
+| Base Height | Base Weight | Height Modifier | Weight Modifier |
+|:---:|:---:|:---:|:---:|
+| 4'8" | 110 lb. | +2d10 | x(2d4) lb. |
 ```
 ```
 {{wide
