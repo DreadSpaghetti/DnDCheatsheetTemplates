@@ -1,8 +1,8 @@
 ```
 {{classTable,wide,frame
-##### The Bard: "subclass"
-| |||||--- Spell Slots per Spell Level ---|||||||||
-| Level | Proficiency Bonus | Features | Cantrips Known | Spells Known | 1st| 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+##### The Bard: Subclass Name
+| Level | Proficiency | Features | Cantrips | Spells | --- Spell Slots Per Spell Level ---|||||||||
+|^| Bonus^| ^| Known ^| Known ^|1st |2nd |3rd |4th |5th |6th |7th |8th |9th |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1st | +2 | Spellcasting, Bardic Inspiration (d6) | 2 | 4 | 2 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2nd | +2 | Jack of All Trades, Song of Rest (d6), Magical Inspiration (optional tcoe) | 2 | 5 | 3 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -52,7 +52,7 @@ bard cantrips of your choice at higher levels, as shown in the Cantrips Known co
 of the Bard table.
 
 #### Spell Slots
-The Bard table shows how many spell slots you have to cast your spells of 1st level
+The Bard table shows how many spell slots you have to cast your bard spells of 1st level
 and higher. To cast one of these spells, you must expend a slot of the spell's level
 or higher. You regain all expended spell slots when you finish a long rest. For
 example, if you know the 1st-level spell Cure Wounds and have a 1st-level and a
@@ -89,6 +89,8 @@ You can cast any bard spell you know as a ritual if that spell has the ritual ta
 #### Spellcasting Focus
 You can use a musical instrument as a spellcasting focus for your bard spells.
 
+
+
 ### Bardic Inspiration
 You can inspire others through stirring words or music. To do so, you use a bonus
 action on your turn to choose one creature other than yourself within 60 feet of you
@@ -107,18 +109,23 @@ of once). You regain any expended uses when you finish a long rest.
 Your Bardic Inspiration die changes when you reach certain levels in this class. The
 die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
 
+
+
 ### Jack of All Trades
 Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any
 ability check you make that doesn't already include your proficiency bonus.
 
+
+
 ### Song of Rest
 Beginning at 2nd level, you can use soothing music or oration to help revitalize your
 wounded allies during a short rest. If you or any friendly creatures who can hear
-your performance spend one or more Hit Dice to regain hit points at the end of the
-short rest, each of those creatures regains an extra 1d6 hit points.
+your performance ragians hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.
 
 The extra Hit Points increase when you reach certain levels in this class: to 1d8 at
 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.
+
+
 
 ### Magical Inspiration (optional tcoe)
 At 2nd level, if a creature has a Bardic Inspiration die from you and casts a spell
@@ -127,11 +134,13 @@ target affected by the spell. Add the number rolled as a bonus to the hit points
 regained or the damage dealt. The Bardic Inspiration die is then lost.
 
 
+
 Level 3 Subclass Feature
 Level 3 Subclass Feature
 Level 3 Subclass Feature
 Level 3 Subclass Feature
 Level 3 Subclass Feature
+
 
 
 ### Expertise
@@ -140,11 +149,15 @@ doubled for any ability check you make that uses either of the chosen proficienc
 
 At 10th level, you can choose another two skill proficiencies to gain this benefit.
 
+
+
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can
 increase one ability score of your choice by 2, or you can increase two ability
 scores of your choice by 1. As normal, you can't increase an ability score above 20
 using this feature.
+
+
 
 ### Bardic Versatility (optional tcoe)
 Whenever you reach a level in this class that grants the Ability Score Improvement
@@ -156,16 +169,20 @@ skill proficiencies that isn't benefiting from Expertise.
 Replace one cantrip you learned from this class's Spellcasting feature with another
 cantrip from the bard spell list.
 
+
+
 ### Font of Inspiration
 Beginning when you reach 5th level, you regain all of your expended uses of Bardic
 Inspiration when you finish a short or long rest.
 
 
+
 Level 6 Subclass Feature
 Level 6 Subclass Feature
 Level 6 Subclass Feature
 Level 6 Subclass Feature
 Level 6 Subclass Feature
+
 
 
 ### Countercharm
@@ -176,15 +193,18 @@ feet of you have advantage on saving throws against being frightened or charmed.
 creature must be able to hear you to gain this benefit. The performance ends early if
 you are incapacitated or silenced or if you voluntarily end it (no action required).
 
+
+
 ### Magical Secrets
 By 10th level, you have plundered magical knowledge from a wide spectrum of
-disciplines. Choose two spells from any class, including this one. A spell you choose
+disciplines. Choose two spells from any classes, including this one. A spell you choose
 must be of a level you can cast, as shown on the Bard table, or a cantrip.
 
 The chosen spells count as bard spells for you and are included in the number in the
 Spells Known column of the Bard table.
 
-You learn two additional spells from any class at 14th level and again at 18th level.
+You learn two additional spells from any classes at 14th level and again at 18th level.
+
 
 
 Level 14 Subclass Feature
