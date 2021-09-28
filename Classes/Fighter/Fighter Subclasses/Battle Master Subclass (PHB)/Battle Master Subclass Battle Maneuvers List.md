@@ -52,7 +52,7 @@ number rolled to your AC until you stop moving.
 #### Feinting Attack
 You can expend one superiority die and use a bonus action on your turn to feint,
 choosing one creature within 5 feet of you as your target. You have advantage on your
-next attack roll against that creature before the end of your turn. If that attack
+next attack roll against that creature this turn. If that attack
 hits, add the superiority die to the attack's damage roll.
 
 #### Goading Attack
