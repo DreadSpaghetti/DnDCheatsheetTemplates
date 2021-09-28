@@ -178,11 +178,11 @@ spell refers to your spellcasting ability. In addition, you use your Intelligenc
 modifier when setting the saving throw DC for a wizard spell you cast and when making
 an attack roll with one.
 
-<div style="text-align: center">
+{{text-align:center
 **Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
 
 **Spell attack modifier** = your proficiency bonus + your Intelligence modifier
-</div>
+}}
 
 
 
