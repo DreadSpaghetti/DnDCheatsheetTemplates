@@ -35,6 +35,12 @@ Your aasimar character has the following racial traits.
 **Languages.** You can speak, read, and write Common and Celestial.
 ```
 ```
+##### Random Height and Weight:
+| Base Height | Base Weight | Height Modifier | Weight Modifier |
+|:---:|:---:|:---:|:---:|
+| 4'8" | 110 lb. | +2d10 | x(2d4) lb. |
+```
+```
 {{wide
 ### Light Bearer
 |Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
