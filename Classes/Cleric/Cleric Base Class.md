@@ -136,8 +136,8 @@ level 8 subclass feature(s)\
 level 8 subclass feature(s)
 ```
 ### Blessed Strikes (optional tcoe)
-Replaces the Divine Strike or Potent Spellcasting feature
-
+*Replaces the Divine Strike or Potent Spellcasting feature*
+:
 When you reach 8th level, you are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal 1d8 radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 
