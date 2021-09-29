@@ -12,10 +12,6 @@ Volo's Guide To Monsters\
 Mordenkainen's Tome of Foes\
 Guildmaster's Guide to Ravnica\
 Tasha's Cauldron of Everything\
-Wayfinder's Guide to Eberron\
-Eberron Rising From the Last War\
-The Tortle Package\
-One Grung Above\
 \
 \
 \
@@ -27,26 +23,17 @@ while making the necessary changes every so often,
 to start making an oh-so-easy cheat sheet custom made for your character.
 \
 \
-Apart from all the necessary race/class/background/etc information, you will need to use a lot of ```<br>```, ```\column```, ```\page```, and ```&nbsp;``` tags
-as well as the odd:
+Apart from all the necessary race/class/background/etc information, you will need to input your own ```\column``` and ```\page``` tags
+as well as ensuring that you have the renderor set to V3 in "Properties", and that you have:
 
 ```
-<style>
-  .phb{
-    width : 210mm;
-    height : 296.8mm;
-  }
-</style>
+.phb {
+	width  : 210mm;
+	height : 296.8mm;
+}
 ```
-and
-```
-<div style='margin-top:40px'></div>
-<div style='margin-top:6px'></div>
-```
-and
-```
-{{text-align:center
-
-}}
-```
-blocks.
+written in the "Style Editor" section.
+\
+\
+\
+Enjoy!!!
