@@ -73,13 +73,9 @@ You can cast a cleric spell as a ritual if that spell has the ritual tag and you
 
 #### Spellcasting Focus
 You can use a holy symbol as a spellcasting focus for your cleric spells.
-```
-level 3 subclass feature(s)\
-level 3 subclass feature(s)\
-level 3 subclass feature(s)\
-level 3 subclass feature(s)\
-level 3 subclass feature(s)
-```
+
+
+
 ### Channel Divinity
 At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
 
@@ -96,9 +92,13 @@ A turned creature must spend its turns trying to move as far away from you as it
 
 #### Channel Divinity: Harness Divine Power (optional tcoe)
 At 2nd level, you can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.
-
-
-
+```
+level 3 subclass feature(s)\
+level 3 subclass feature(s)\
+level 3 subclass feature(s)\
+level 3 subclass feature(s)\
+level 3 subclass feature(s)
+```
 ### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
