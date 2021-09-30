@@ -14,7 +14,7 @@
 # Artificer Spell List: Armourer Subclass
 ### Cantrips (0 level)
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |0|Acid Splash|Conjuration|VS|1 Action|No|No|PHB pg.211|
 |0|Booming Blade|Evocation|VM|1 Action|No|No|TCOE pg.106|
@@ -62,7 +62,7 @@
 |1|Sanctuary|Abjuration|VSM|1 Bonus Action|No|No|PHB pg.272|
 |1|Snare|Abjuration|SM(gp)|1 Minute|No|No|XGTE pg.165|
 |1|Tasha's Caustic Brew|Evocation|VSM|1 Action|Yes|No|TCOE pg.115|
-||***Armourer Spells***|||||||
+| |***Armourer Spells***| | | | | | |
 |1|Magic Missile|Evocation|VS|1 Action|No|No|PHB pg.257|
 |1|Thunderwave|Evocation|VS|1 Action|No|No|PHB pg.282|
 
@@ -91,7 +91,7 @@
 |2|Skywrite|Transmutation|VS|1 Action|Yes|Yes|XGTE pg.165|
 |2|Spider Climb|Transmutation|VSM|1 Action|Yes|No|PHB pg.277|
 |2|Web|Conjuration|VSM|1 Action|Yes|No|PHB pg.287|
-||***Armourer Spells***|||||||
+| |***Armourer Spells***| | | | | | |
 |2|Mirror Image|Illusion|VS|1 Action|No|No|PHB pg.260|
 |2|Shatter|Evocation|VSM|1 Action|No|No|PHB pg.275|
 
@@ -114,7 +114,7 @@
 |3|Tiny Servant|Transmutation|VS|1 Minute|No|No|XGTE pg.168|
 |3|Water Breathing|Transmutation|VSM|1 Action|No|Yes|PHB pg.287|
 |3|Water Walk|Transmutation|VSM|1 Action|No|Yes|PHB pg.287|
-||***Armourer Spells***|||||||
+| |***Armourer Spells***| | | | | | |
 |3|Hypnotic Pattern|Illusion|SM|1 Action|Yes|No|PHB pg.252|
 |3|Lightning Bolt|Evocation|VSM|1 Action|No|No|PHB pg.255|
 
@@ -133,7 +133,7 @@
 |4|Stone Shape|Transmutation|VSM|1 Action|No|No|PHB pg.278|
 |4|Stoneskin|Abjuration|VSM(gp)|1 Action|Yes|No|PHB pg.278|
 |4|Summon Construct|Conjuration|VSM|1 Action|Yes|No|TCOE pg.111|
-||***Armourer Spells***|||||||
+| |***Armourer Spells***| | | | | | |
 |4|Fire Shield|Evocation|VSM|1 Action|No|No|PHB pg.242|
 |4|Greater Invisibility|Illusion|VS|1 Action|Yes|No|PHB pg.246|
 
@@ -148,7 +148,7 @@
 |5|Skill Empowerment|Transmutation|VS|1 Action|Yes|No|XGTE pg.165|
 |5|Transmute Rock|Transmutation|VSM|1 Action|No|No|XGTE pg.169|
 |5|Wall of Stone|Evocation|VSM|1 Action|Yes|No|PHB pg.287|
-||***Armourer Spells***|||||||
+| |***Armourer Spells***| | | | | | |
 |5|Passwall|Transmutation|VSM|1 Action|No|No|PHB pg.264|
 |5|Wall of Force|Evocation|VSM|1 Action|Yes|No|PHB pg.285|
 
