@@ -1,7 +1,17 @@
 ```
+
+}}
+
+\page
+
 {{wide
+
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
+|:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 ```
 ```
+{{wide
+
 # Bard Spell List
 ### Cantrips (0 level)
 
@@ -207,7 +217,6 @@ Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Sourc
 |9|True Polymorph|Transmutation|VSM|1 Action|Yes|No|PHB pg.283|
 | |**optional (tcoe)**| | | | | | |
 |9|Prismatic Wall|Abjuration|VS|1 Action|No|No|PHB pg.267|
-```
-```
+
 }}
 ```
