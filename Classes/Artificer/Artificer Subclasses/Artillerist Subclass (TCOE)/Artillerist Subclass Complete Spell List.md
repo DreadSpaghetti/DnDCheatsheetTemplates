@@ -1,5 +1,17 @@
 ```
-<div class='wide'>
+
+}}
+
+\page
+
+{{wide
+
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
+|:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
+```
+```
+{{wide
+
 # Artificer Spell List: Artillerist Subclass
 ### Cantrips (0 level)
 
@@ -141,5 +153,5 @@
 |5|Cone of Cold|Evocation|VSM|1 Action|No|No|PHB pg.224|
 |5|Wall of Force|Evocation|VSM|1 Action|Yes|No|PHB pg.285|
 
-</div>
+}}
 ```
