@@ -1,5 +1,17 @@
 ```
-<div class='wide'>
+
+}}
+
+\page
+
+{{wide
+
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
+|:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
+```
+```
+{{wide
+
 # Artificer Spell List: Battle Smith Subclass
 ### Cantrips (0 level)
 
@@ -141,5 +153,5 @@
 |5|Banishing Smite|Abjuration|V|1 Bonus Action|Yes|No|PHB pg.216|
 |5|Mass Cure Wounds|Evocation|VS|1 Action|No|No|PHB pg.258|
 
-</div>
+}}
 ```
