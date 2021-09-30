@@ -26,8 +26,8 @@
 |20th|+6|10d6|Stroke of Luck|
 
 }}
-
-
+```
+```
 #### Hit Points
 **Hit Dice:** :: 1d8 per rogue level
 **Hit Points at 1st Level:** :: 8 + your Constitution modifier
