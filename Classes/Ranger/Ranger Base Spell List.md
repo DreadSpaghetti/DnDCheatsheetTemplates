@@ -1,5 +1,17 @@
 ```
+
+}}
+
+\page
+
 {{wide
+
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
+|:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
+```
+```
+{{wide
+
 # Ranger Spell List: Subclass Name
 ### 1st Level Spells
 
