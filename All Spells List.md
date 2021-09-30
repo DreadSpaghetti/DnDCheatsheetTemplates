@@ -49,7 +49,7 @@
 |0|Ray of Frost|Evocation|VS|1 Action|No|No|PHB pg.271|
 |0|Resistance|Abjuration|VSM|1 Action|Yes|No|PHB pg.272|
 |0|Sacred Flame|Evocation|VS|1 Action|No|No|PHB pg.272|
-|0|Shape Water|Transmutation|S|1 Action|No|No|EE pg.21|
+|0|Shape Water|Transmutation|S|1 Action|No|No|XGTE pg.164|
 |0|Shillelagh|Transmutation|VSM|1 Bonus Action|No|No|PHB pg.275|
 |0|Shocking Grasp|Evocation|VS|1 Action|No|No|PHB pg.275|
 |0|Spare the Dying|Necromancy|VS|1 Action|No|No|PHB pg.277|
@@ -366,7 +366,7 @@
 |5|Conjure Volley|Conjuration|VSM|1 Action|No|No|PHB pg.226|
 |5|Contact Other Plane|Divination|V|1 Minute|No|Yes|PHB pg.226|
 |5|Contagion|Necromancy|VS|1 Action|No|No|PHB pg.227|
-|5|Control Winds|Transmutation|VS|1 Action|Yes|No|EE pg.16|
+|5|Control Winds|Transmutation|VS|1 Action|Yes|No|XGTE pg.152|
 |5|Creation|Illusion|VSM|1 Minute|No|No|PHB pg.229|
 |5|Danse Macabre|Necromancy|VS|1 Action|Yes|No|XGTE pg.153|
 |5|Dawn|Evocation|VSM(gp)|1 Action|Yes|No|XGTE pg.153|
