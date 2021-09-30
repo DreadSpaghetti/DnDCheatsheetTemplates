@@ -15,7 +15,7 @@
 # Artificer Spell List: Artillerist Subclass
 ### Cantrips (0 level)
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |0|Acid Splash|Conjuration|VS|1 Action|No|No|PHB pg.211|
 |0|Booming Blade|Evocation|VM|1 Action|No|No|TCOE pg.106|
@@ -43,7 +43,7 @@
 
 ### 1st Level Spells
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |1|Absorb Elements|Abjuration|S|1 Reaction|No|No|XGTE pg.150|
 |1|Alarm|Abjuration|VSM|1 Minute|No|Yes|PHB pg.211|
@@ -63,13 +63,13 @@
 |1|Sanctuary|Abjuration|VSM|1 Bonus Action|No|No|PHB pg.272|
 |1|Snare|Abjuration|SM(gp)|1 Minute|No|No|XGTE pg.165|
 |1|Tasha's Caustic Brew|Evocation|VSM|1 Action|Yes|No|TCOE pg.115|
-||***Artillerist Spells***|||||||
+| |***Artillerist Spells***| | | | | | |
 |1|Shield|Abjuration|VS|1 Reaction|No|No|PHB pg.275|
 |1|Thunderwave|Evocation|VS|1 Action|No|No|PHB pg.282|
 
 ### 2nd Level Spells
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |2|Aid|Abjuration|VSM|1 Action|No|No|PHB pg.211|
 |2|Alter Self|Transmutation|VS|1 Action|Yes|No|PHB pg.211|
@@ -92,13 +92,13 @@
 |2|Skywrite|Transmutation|VS|1 Action|Yes|Yes|XGTE pg.165|
 |2|Spider Climb|Transmutation|VSM|1 Action|Yes|No|PHB pg.277|
 |2|Web|Conjuration|VSM|1 Action|Yes|No|PHB pg.287|
-||***Artillerist Spells***|||||||
+| |***Artillerist Spells***| | | | | | |
 |2|Scorching Ray|Evocation|VS|1 Action|No|No|PHB pg.273|
 |2|Shatter|Evocation|VSM|1 Action|No|No|PHB pg.275|
 
 ### 3rd Level Spells
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |3|Blink|Transmutation|VS|1 Action|No|No|PHB pg.219|
 |3|Catnap|Enchantment|SM|1 Action|No|No|XGTE pg.151|
@@ -115,13 +115,13 @@
 |3|Tiny Servant|Transmutation|VS|1 Minute|No|No|XGTE pg.168|
 |3|Water Breathing|Transmutation|VSM|1 Action|No|Yes|PHB pg.287|
 |3|Water Walk|Transmutation|VSM|1 Action|No|Yes|PHB pg.287|
-||***Artillerist Spells***|||||||
+| |***Artillerist Spells***| | | | | | |
 |3|Fireball|Evocation|VSM|1 Action|No|No|PHB pg.241|
 |3|Wind Wall|Evocation|VSM|1 Action|Yes|No|PHB pg.288|
 
 ### 4th Level Spells
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |4|Arcane Eye|Divination|VSM|1 Action|Yes|No|PHB pg.214|
 |4|Elemental Bane|Transmutation|VS|1 Action|Yes|No|XGTE pg.155|
@@ -134,13 +134,13 @@
 |4|Stone Shape|Transmutation|VSM|1 Action|No|No|PHB pg.278|
 |4|Stoneskin|Abjuration|VSM(gp)|1 Action|Yes|No|PHB pg.278|
 |4|Summon Construct|Conjuration|VSM|1 Action|Yes|No|TCOE pg.111|
-||***Artillerist Spells***|||||||
+| |***Artillerist Spells***| | | | | | |
 |4|Ice Storm|Evocation|VSM|1 Action|No|No|PHB pg.252|
 |4|Wall of Fire|Evocation|VSM|1 Action|Yes|No|PHB pg.285|
 
 ### 5th Level Spells
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |5|Animate Objects|Transmutation|VS|1 Action|Yes|No|PHB pg.213|
 |5|Bigby's Hand|Evocation|VSM|1 Action|Yes|No|PHB pg.218|
@@ -149,7 +149,7 @@
 |5|Skill Empowerment|Transmutation|VS|1 Action|Yes|No|XGTE pg.165|
 |5|Transmute Rock|Transmutation|VSM|1 Action|No|No|XGTE pg.169|
 |5|Wall of Stone|Evocation|VSM|1 Action|Yes|No|PHB pg.287|
-||***Artillerist Spells***|||||||
+| |***Artillerist Spells***| | | | | | |
 |5|Cone of Cold|Evocation|VSM|1 Action|No|No|PHB pg.224|
 |5|Wall of Force|Evocation|VSM|1 Action|Yes|No|PHB pg.285|
 
