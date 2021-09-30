@@ -1,7 +1,17 @@
 ```
+
+}}
+
+\page
+
 {{wide
+
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
+|:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 ```
 ```
+{{wide
+
 # All Spells
 ### Cantrips (0 level)
 	
@@ -538,7 +548,6 @@
 |9|True Resurrection|Necromancy|VSM(gp)|1 Hour|No|No|PHB pg.284|
 |9|Weird|Illusion|VS|1 Action|Yes|No|PHB pg.288|
 |9|Wish|Conjuration|V|1 Action|No|No|PHB pg.288|
-```
-```
+
 }}
 ```
