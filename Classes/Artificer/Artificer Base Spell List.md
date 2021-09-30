@@ -1,9 +1,21 @@
 ```
-<div class='wide'>
+
+}}
+
+\page
+
+{{wide
+
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
+|:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
+```
+```
+{{wide
+
 # Artificer Spell List:
 ### Cantrips (0 level)
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |0|Acid Splash|Conjuration|VS|1 Action|No|No|PHB pg.211|
 |0|Booming Blade|Evocation|VM|1 Action|No|No|TCOE pg.106|
@@ -31,7 +43,7 @@
 
 ### 1st Level Spells
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |1|Absorb Elements|Abjuration|S|1 Reaction|No|No|XGTE pg.150|
 |1|Alarm|Abjuration|VSM|1 Minute|No|Yes|PHB pg.211|
@@ -54,7 +66,7 @@
 
 ### 2nd Level Spells
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |2|Aid|Abjuration|VSM|1 Action|No|No|PHB pg.211|
 |2|Alter Self|Transmutation|VS|1 Action|Yes|No|PHB pg.211|
@@ -80,7 +92,7 @@
 
 ### 3rd Level Spells
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |3|Blink|Transmutation|VS|1 Action|No|No|PHB pg.219|
 |3|Catnap|Enchantment|SM|1 Action|No|No|XGTE pg.151|
@@ -100,7 +112,7 @@
 
 ### 4th Level Spells
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |4|Arcane Eye|Divination|VSM|1 Action|Yes|No|PHB pg.214|
 |4|Elemental Bane|Transmutation|VS|1 Action|Yes|No|XGTE pg.155|
@@ -116,7 +128,7 @@
 
 ### 5th Level Spells
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |5|Animate Objects|Transmutation|VS|1 Action|Yes|No|PHB pg.213|
 |5|Bigby's Hand|Evocation|VSM|1 Action|Yes|No|PHB pg.218|
@@ -126,5 +138,5 @@
 |5|Transmute Rock|Transmutation|VSM|1 Action|No|No|XGTE pg.169|
 |5|Wall of Stone|Evocation|VSM|1 Action|Yes|No|PHB pg.287|
 
-</div>
+}}
 ```
