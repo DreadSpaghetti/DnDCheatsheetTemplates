@@ -15,7 +15,7 @@
 # Edlritch Knight Spells List:
 ### Cantrips (0 level)
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |0|Acid Splash|Conjuration|VS|1 Action|No|No|PHB pg.211|
 |0|Blade Ward|Abjuration|VS|1 Action|No|No|PHB pg.218|
@@ -41,7 +41,7 @@
 |0|Thunderclap|Evocation|S|1 Action|No|No|XGTE pg.168|
 |0|Toll the Dead|Necromancy|VS|1 Action|No|No|XGTE pg.169|
 |0|True Strike|Divination|S|1 Action|Yes|No|PHB pg.284|
-||**optional (tcoe)**|||||||
+| |**optional (tcoe)**| | | | | | |
 |0|Booming Blade|Evocation|VM|1 Action|No|No|TCOE pg.106|
 |0|Green-Flame Blade|Evocation|VM|1 Action|No|No|TCOE pg.107|
 |0|Lightning Lure|Evocation|V|1 Action|No|No|TCOE pg.107|
@@ -50,9 +50,9 @@
 
 ### 1st Level Spells
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
-||**restricted**|||||||
+| |**restricted**| | | | | | |
 |1|Absorb Elements|Abjuration|S|1 Reaction|No|No|XGTE pg.150|
 |1|Alarm|Abjuration|VSM|1 Minute|No|Yes|PHB pg.211|
 |1|Burning Hands|Evocation|VS|1 Action|No|No|PHB pg.220|
@@ -65,9 +65,9 @@
 |1|Snare|Abjuration|SM(gp)|1 Minute|No|No|XGTE pg.165|
 |1|Thunderwave|Evocation|VS|1 Action|No|No|PHB pg.282|
 |1|Witch Bolt|Evocation|VSM|1 Action|Yes|No|PHB pg.289|
-||**optional (tcoe)**|||||||
+| |**optional (tcoe)**| | | | | | |
 |1|Tasha's Caustic Brew|Evocation|VSM|1 Action|Yes|No|TCOE pg.115|
-||**unrestricted**|||||||
+| |**unrestricted**| | | | | | |
 |1|Catapult|Transmutation|S|1 Action|No|No|XGTE pg.150|
 |1|Cause Fear|Necromancy|V|1 Action|Yes|No|XGTE pg.151|
 |1|Color Spray|Illusion|VSM|1 Action|No|No|PHB pg.222|
@@ -93,9 +93,9 @@
 
 ### 2nd Level Spells
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
-||**restricted**|||||||
+| |**restricted**| | | | | | |
 |2|Aganazzar's Scorcher|Evocation|VSM|1 Action|No|No|XGTE pg.150|
 |2|Arcane Lock|Abjuration|VSM(gp)|1 Action|No|No|PHB pg.215|
 |2|Continual Flame|Evocation|VSM(gp)|1 Action|No|No|PHB pg.227|
@@ -106,7 +106,7 @@
 |2|Shatter|Evocation|VSM|1 Action|No|No|PHB pg.275|
 |2|Snilloc's Snowball Swarm|Evocation|VSM|1 Action|No|No|XGTE pg.165|
 |2|Warding Wind|Evocation|V|1 Action|Yes|No|XGTE pg.170|
-||**unrestricted**|||||||
+| |**unrestricted**| | | | | | |
 |2|Alter Self|Transmutation|VS|1 Action|Yes|No|PHB pg.211|
 |2|Blindness/Deafness|Necromancy|V|1 Action|No|No|PHB pg.219|
 |2|Blur|Illusion|V|1 Action|Yes|No|PHB pg.219|
@@ -141,16 +141,16 @@
 |2|Skywrite|Transmutation|VS|1 Action|Yes|Yes|XGTE pg.165|
 |2|Spider Climb|Transmutation|VSM|1 Action|Yes|No|PHB pg.277|
 |2|Web|Conjuration|VSM|1 Action|Yes|No|PHB pg.287|
-||**optional (tcoe)**|||||||
+| |**optional (tcoe)**| | | | | | |
 |2|Augury|Divination|VSM(gp)|1 Minute|No|Yes|PHB pg.215|
 |2|Enhance Ability|Transmutation|VSM|1 Action|Yes|No|PHB pg.237|
 |2|Tasha's Mind Whip|Enchantment|V|1 Action|No|No|TCOE pg.115|
 
 ### 3rd Level Spells
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
-||**restricted**|||||||
+| |**restricted**| | | | | | |
 |3|Counterspell|Abjuration|S|1 Reaction|No|No|PHB pg.228|
 |3|Dispel Magic|Abjuration|VS|1 Action|No|No|PHB pg.234|
 |3|Fireball|Evocation|VSM|1 Action|No|No|PHB pg.241|
@@ -165,9 +165,9 @@
 |3|Sending|Evocation|VSM|1 Action|No|No|PHB pg.274|
 |3|Wall of Sand|Evocation|VSM|1 Action|Yes|No|XGTE pg.170|
 |3|Wall of Water|Evocation|VSM|1 Action|Yes|No|XGTE pg.170|
-||**optional (tcoe)**|||||||
+| |**optional (tcoe)**| | | | | | |
 |3|Intellect Fortress|Abjuration|V|1 Action|Yes|No|TCOE pg.107|
-||**unrestricted**|||||||
+| |**unrestricted**| | | | | | |
 |3|Animate Dead|Necromancy|VSM|1 Minute|No|No|PHB pg.212|
 |3|Bestow Curse|Necromancy|VS|1 Action|Yes|No|PHB pg.218|
 |3|Blink|Transmutation|VS|1 Action|No|No|PHB pg.219|
@@ -195,7 +195,7 @@
 |3|Tongues|Divination|VM|1 Action|No|No|PHB pg.283|
 |3|Vampiric Touch|Necromancy|VS|1 Action|Yes|No|PHB pg.285|
 |3|Water Breathing|Transmutation|VSM|1 Action|No|Yes|PHB pg.287|
-||**optional (tcoe)**|||||||
+| |**optional (tcoe)**| | | | | | |
 |3|Speak with Dead|Necromancy|VSM|1 Action|No|No|PHB pg.277|
 |3|Spirit Shroud|Necromancy|VS|1 Bonus Action|Yes|No|TCOE pg.108|
 |3|Summon Fey|Conjuration|VSM|1 Action|Yes|No|TCOE pg.112|
@@ -204,9 +204,9 @@
 
 ### 4th Level Spells
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
-||**restricted**|||||||
+| |**restricted**| | | | | | |
 |4|Banishment|Abjuration|VSM|1 Action|Yes|No|PHB pg.217|
 |4|Fire Shield|Evocation|VSM|1 Action|No|No|PHB pg.242|
 |4|Ice Storm|Evocation|VSM|1 Action|No|No|PHB pg.252|
@@ -217,7 +217,7 @@
 |4|Storm Sphere|Evocation|VS|1 Action|Yes|No|XGTE pg.166|
 |4|Vitriolic Sphere|Evocation|VSM|1 Action|No|No|XGTE pg.170|
 |4|Wall of Fire|Evocation|VSM|1 Action|Yes|No|PHB pg.285|
-||**unrestricted**|||||||
+| |**unrestricted**| | | | | | |
 |4|Arcane Eye|Divination|VSM|1 Action|Yes|No|PHB pg.214|
 |4|Blight|Necromancy|VS|1 Action|No|No|PHB pg.219|
 |4|Charm Monster|Enchantment|VS|1 Action|No|No|XGTE pg.151|
@@ -238,7 +238,7 @@
 |4|Stone Shape|Transmutation|VSM|1 Action|No|No|PHB pg.278|
 |4|Summon Greater Demon|Conjuration|VSM|1 Action|Yes|No|XGTE pg.166|
 |4|Watery Sphere|Conjuration|VSM|1 Action|Yes|No|XGTE pg.170|
-||**optional (tcoe)**|||||||
+| |**optional (tcoe)**| | | | | | |
 |4|Divination|Divination|VSM(gp)|1 Action|No|Yes|PHB pg.234|
 |4|Summon Aberration|Conjuration|VSM|1 Action|Yes|No|TCOE pg.109|
 |4|Summon Construct|Conjuration|VSM|1 Action|Yes|No|TCOE pg.111|
