@@ -1,5 +1,17 @@
 ```
-<div class='wide'>
+
+}}
+
+\page
+
+{{wide
+
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
+|:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
+```
+```
+{{wide
+
 # Edlritch Knight Spells List:
 ### Cantrips (0 level)
 
@@ -232,5 +244,5 @@
 |4|Summon Construct|Conjuration|VSM|1 Action|Yes|No|TCOE pg.111|
 |4|Summon Elemental|Conjuration|VSM|1 Action|Yes|No|TCOE pg.111|
 
-</div>
+}}
 ```
