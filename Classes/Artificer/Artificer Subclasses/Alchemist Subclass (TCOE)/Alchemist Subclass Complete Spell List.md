@@ -1,9 +1,21 @@
 ```
-<div class='wide'>
+
+}}
+
+\page
+
+{{wide
+
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
+|:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
+```
+```
+{{wide
+
 # Artificer Spell List: Alchemist Subclass
 ### Cantrips (0 level)
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |0|Acid Splash|Conjuration|VS|1 Action|No|No|PHB pg.211|
 |0|Booming Blade|Evocation|VM|1 Action|No|No|TCOE pg.106|
@@ -31,7 +43,7 @@
 
 ### 1st Level Spells
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |1|Absorb Elements|Abjuration|S|1 Reaction|No|No|XGTE pg.150|
 |1|Alarm|Abjuration|VSM|1 Minute|No|Yes|PHB pg.211|
@@ -51,13 +63,13 @@
 |1|Sanctuary|Abjuration|VSM|1 Bonus Action|No|No|PHB pg.272|
 |1|Snare|Abjuration|SM(gp)|1 Minute|No|No|XGTE pg.165|
 |1|Tasha's Caustic Brew|Evocation|VSM|1 Action|Yes|No|TCOE pg.115|
-||***Alchemist Spells***|||||||
+| |***Alchemist Spells***| | | | | | |
 |1|Healing Word|Evocation|V|1 Bonus Action|No|No|PHB pg.250|
 |1|Ray of Sickness|Necromancy|VS|1 Action|No|No|PHB pg.271|
 
 ### 2nd Level Spells
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |2|Aid|Abjuration|VSM|1 Action|No|No|PHB pg.211|
 |2|Alter Self|Transmutation|VS|1 Action|Yes|No|PHB pg.211|
@@ -80,13 +92,13 @@
 |2|Skywrite|Transmutation|VS|1 Action|Yes|Yes|XGTE pg.165|
 |2|Spider Climb|Transmutation|VSM|1 Action|Yes|No|PHB pg.277|
 |2|Web|Conjuration|VSM|1 Action|Yes|No|PHB pg.287|
-||***Alchemist Spells***|||||||
+| |***Alchemist Spells***| | | | | | |
 |2|Flaming Sphere|Conjuration|VSM|1 Action|Yes|No|PHB pg.242|
 |2|Melf's Acid Arrow|Evocation|VSM|1 Action|No|No|PHB pg.259|
 
 ### 3rd Level Spells
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |3|Blink|Transmutation|VS|1 Action|No|No|PHB pg.219|
 |3|Catnap|Enchantment|SM|1 Action|No|No|XGTE pg.151|
@@ -103,13 +115,13 @@
 |3|Tiny Servant|Transmutation|VS|1 Minute|No|No|XGTE pg.168|
 |3|Water Breathing|Transmutation|VSM|1 Action|No|Yes|PHB pg.287|
 |3|Water Walk|Transmutation|VSM|1 Action|No|Yes|PHB pg.287|
-||***Alchemist Spells***|||||||
+| |***Alchemist Spells***| | | | | | |
 |3|Gaseous Form|Transmutation|VSM|1 Action|Yes|No|PHB pg.244|
 |3|Mass Healing Word|Evocation|V|1 Bonus Action|No|No|PHB pg.258|
 
 ### 4th Level Spells
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |4|Arcane Eye|Divination|VSM|1 Action|Yes|No|PHB pg.214|
 |4|Elemental Bane|Transmutation|VS|1 Action|Yes|No|XGTE pg.155|
@@ -122,13 +134,13 @@
 |4|Stone Shape|Transmutation|VSM|1 Action|No|No|PHB pg.278|
 |4|Stoneskin|Abjuration|VSM(gp)|1 Action|Yes|No|PHB pg.278|
 |4|Summon Construct|Conjuration|VSM|1 Action|Yes|No|TCOE pg.111|
-||***Alchemist Spells***|||||||
+| |***Alchemist Spells***| | | | | | |
 |4|Blight|Necromancy|VS|1 Action|No|No|PHB pg.219|
 |4|Death Ward|Abjuration|VS|1 Action|No|No|PHB pg.230|
 
 ### 5th Level Spells
 
-|Spell<br>Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual|Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |5|Animate Objects|Transmutation|VS|1 Action|Yes|No|PHB pg.213|
 |5|Bigby's Hand|Evocation|VSM|1 Action|Yes|No|PHB pg.218|
@@ -137,9 +149,9 @@
 |5|Skill Empowerment|Transmutation|VS|1 Action|Yes|No|XGTE pg.165|
 |5|Transmute Rock|Transmutation|VSM|1 Action|No|No|XGTE pg.169|
 |5|Wall of Stone|Evocation|VSM|1 Action|Yes|No|PHB pg.287|
-||***Alchemist Spells***|||||||
+| |***Alchemist Spells***| | | | | | |
 |5|Cloudkill|Conjuration|VS|1 Action|Yes|No|PHB pg.222|
 |5|Raise Dead|Necromancy|VSM(gp)|1 Hour|No|No|PHB pg.270|
 
-</div>
+}}
 ```
