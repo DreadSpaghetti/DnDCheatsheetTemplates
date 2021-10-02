@@ -12,7 +12,7 @@
 ```
 {{wide
 
-# Artificer Spell List:
+# Artificer Spell List: Subclass Name
 ### Cantrips (0 level)
 
 |Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|

@@ -63,7 +63,7 @@
 |1|Sanctuary|Abjuration|VSM|1 Bonus Action|No|No|PHB pg.272|
 |1|Snare|Abjuration|SM(gp)|1 Minute|No|No|XGTE pg.165|
 |1|Tasha's Caustic Brew|Evocation|VSM|1 Action|Yes|No|TCOE pg.115|
-| |***Battle Smith Spells***| | | | | | |
+| |**Battle Smith Spells**| | | | | | |
 |1|Heroism|Enchantment|VS|1 Action|Yes|No|PHB pg.250|
 |1|Shield|Abjuration|VS|1 Reaction|No|No|PHB pg.275|
 
@@ -92,7 +92,7 @@
 |2|Skywrite|Transmutation|VS|1 Action|Yes|Yes|XGTE pg.165|
 |2|Spider Climb|Transmutation|VSM|1 Action|Yes|No|PHB pg.277|
 |2|Web|Conjuration|VSM|1 Action|Yes|No|PHB pg.287|
-| |***Battle Smith Spells***| | | | | | |
+| |**Battle Smith Spells**| | | | | | |
 |2|Branding Smite|Evocation|V|1 Bonus Action|Yes|No|PHB pg.219|
 |2|Warding Bond|Abjuration|VSM(gp)|1 Action|No|No|PHB pg.287|
 
@@ -115,7 +115,7 @@
 |3|Tiny Servant|Transmutation|VS|1 Minute|No|No|XGTE pg.168|
 |3|Water Breathing|Transmutation|VSM|1 Action|No|Yes|PHB pg.287|
 |3|Water Walk|Transmutation|VSM|1 Action|No|Yes|PHB pg.287|
-| |***Battle Smith Spells***| | | | | | |
+| |**Battle Smith Spells**| | | | | | |
 |3|Aura of Vitality|Evocation|V|1 Action|Yes|No|PHB pg.216|
 |3|Conjure Barrage|Conjuration|VSM|1 Action|No|No|PHB pg.225|
 
@@ -134,7 +134,7 @@
 |4|Stone Shape|Transmutation|VSM|1 Action|No|No|PHB pg.278|
 |4|Stoneskin|Abjuration|VSM(gp)|1 Action|Yes|No|PHB pg.278|
 |4|Summon Construct|Conjuration|VSM|1 Action|Yes|No|TCOE pg.111|
-| |***Battle Smith Spells***| | | | | | |
+| |**Battle Smith Spells**| | | | | | |
 |4|Aura of Purity|Abjuration|V|1 Action|Yes|No|PHB pg.216|
 |4|Fire Shield|Evocation|VSM|1 Action|No|No|PHB pg.242|
 
@@ -149,7 +149,7 @@
 |5|Skill Empowerment|Transmutation|VS|1 Action|Yes|No|XGTE pg.165|
 |5|Transmute Rock|Transmutation|VSM|1 Action|No|No|XGTE pg.169|
 |5|Wall of Stone|Evocation|VSM|1 Action|Yes|No|PHB pg.287|
-| |***Battle Smith Spells***| | | | | | |
+| |**Battle Smith Spells**| | | | | | |
 |5|Banishing Smite|Abjuration|V|1 Bonus Action|Yes|No|PHB pg.216|
 |5|Mass Cure Wounds|Evocation|VS|1 Action|No|No|PHB pg.258|
 

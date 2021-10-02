@@ -12,7 +12,7 @@
 ```
 {{wide
 
-# Bard Spell List
+# Bard Spell List: Subclass Name
 ### Cantrips (0 level)
 
 Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
