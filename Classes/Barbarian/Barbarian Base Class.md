@@ -5,14 +5,14 @@
 |:---:|:---:|:---|:---:|:---:|
 | 1st | +2 | Rage, Unarmoured Defence | 2 | +2 |
 | 2nd | +2 | Reckless Attack, Danger Sense | 2 | +2 |
-| 3rd | +2 | Primal Path, Primal Knowledge (optional tcoe)  | 3 | +2 |
+| 3rd | +2 | Primal Path, Primal Knowledge (optional)  | 3 | +2 |
 | 4th | +2 |  Ability Score Improvement | 3 | +2 |
 | 5th | +3 |  Extra Attack, Fast Movement | 3 | +2 |
 | 6th | +3 | Path Feature | 4 | +2 |
-| 7th | +3 |  Feral Instinct, Instinctive Pounce (optional tcoe) | 4 | +2 |
+| 7th | +3 |  Feral Instinct, Instinctive Pounce (optional) | 4 | +2 |
 | 8th | +3 | Ability Score Improvement | 4 | +2 |
 | 9th | +4 | Brutal Critical (1 Dice) | 4 | +3 |
-| 10th | +4 | Path Feature, Primal Knowledge (optional tcoe) | 4 | +3 |
+| 10th | +4 | Path Feature, Primal Knowledge (optional) | 4 | +3 |
 | 11th | +4 | Relentless Rage  | 4 | +3 |
 | 12th | +4 | Ability Score Improvement | 5 | +3 |
 | 13th | +5 | Brutal Critical improvement (2 Dice) | 5 | +3 |
