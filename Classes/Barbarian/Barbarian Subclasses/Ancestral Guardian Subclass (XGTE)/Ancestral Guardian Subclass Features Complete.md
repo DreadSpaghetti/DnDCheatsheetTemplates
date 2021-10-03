@@ -1,7 +1,7 @@
 ```
 {{wide
 
-### Ancestral Guardian: "Consult the Sprits" Spells
+### Consult the Sprits Spells
 |Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
 |:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
 |2|Augury|Divination|VSM(gp)|1 Minute|No|Yes|PHB pg.215|
