@@ -1,5 +1,5 @@
 ```
-{{classTable,frame
+{{classTable,wide,frame
 ##### The Barbarian: Subclass Name
 | Level |Proficiency Bonus | Features | Rages | Rage Damage |
 |:---:|:---:|:---|:---:|:---:|
