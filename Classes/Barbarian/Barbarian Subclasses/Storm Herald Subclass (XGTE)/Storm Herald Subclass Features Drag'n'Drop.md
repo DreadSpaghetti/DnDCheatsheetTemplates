@@ -32,6 +32,8 @@ Typical barbarians harbor a fury that dwells within. Their rage grants them supe
 
 Storm heralds are typically elite champions who train alongside druids, rangers, and others sworn to protect the natural realm. Other storm heralds hone their craft in elite lodges founded in regions wracked by storms, in the frozen reaches at the world’s end, or deep in the hottest deserts.
 
+
+
 ### Storm Aura
 When you select this path at 3rd level, you emanate a stormy, magical aura while you rage. The aura extends 10 feet from you in every direction, but not through total cover.
 
