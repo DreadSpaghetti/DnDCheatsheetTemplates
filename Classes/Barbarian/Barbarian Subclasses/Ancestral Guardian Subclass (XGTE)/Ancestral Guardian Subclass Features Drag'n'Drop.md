@@ -1,4 +1,13 @@
 ```
+{{wide
+### Consult the Sprits Spells
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
+|:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
+|2|Augury|Divination|VSM(gp)|1 Minute|No|Yes|PHB pg.215|
+|3|Clairvoyance|Divination|VSM(gp)|10 Minutes|Yes|No|PHB pg.222|
+}}
+```
+```
 {{classTable,wide,frame
 ##### The Barbarian: Ancestral Guardian
 | Level |Proficiency Bonus | Features | Rages | Rage Damage |
@@ -48,17 +57,6 @@ When you reach certain levels in this class, you can reduce the damage by more: 
 At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the *augury* or *clairvoyance* spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of *clairvoyance* invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
 
 After you cast either spell in this way, you can’t use this feature again until you finish a short or long rest.
-```
-```
-{{wide
-
-### Ancestral Guardian: "Consult the Sprits" Spells
-|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
-|:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
-|2|Augury|Divination|VSM(gp)|1 Minute|No|Yes|PHB pg.215|
-|3|Clairvoyance|Divination|VSM(gp)|10 Minutes|Yes|No|PHB pg.222|
-
-}}
 ```
 ```
 ### Vengeful Ancestors
