@@ -12,7 +12,7 @@
 ```
 {{wide
 
-# Edlritch Knight Spells List:
+# Eldritch Knight Spell List:
 ### Cantrips (0 level)
 
 |Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|

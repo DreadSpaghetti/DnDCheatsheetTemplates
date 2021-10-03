@@ -1,5 +1,5 @@
 ```
-{{classTable,frame
+{{classTable,wide,frame
 
 ##### The Rogue: Subclass Name
 |Level|Proficiency Bonus|Sneak Attack|Features|

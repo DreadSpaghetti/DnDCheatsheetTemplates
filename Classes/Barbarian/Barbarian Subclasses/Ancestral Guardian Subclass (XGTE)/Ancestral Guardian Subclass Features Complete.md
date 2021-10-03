@@ -10,7 +10,7 @@
 }}
 ```
 ```
-{{classTable,frame
+{{classTable,wide,frame
 ##### The Barbarian: Ancestral Guardian
 | Level |Proficiency Bonus | Features | Rages | Rage Damage |
 |:---:|:---:|:---|:---:|:---:|
