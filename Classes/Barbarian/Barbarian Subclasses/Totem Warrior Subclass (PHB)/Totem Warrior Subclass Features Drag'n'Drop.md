@@ -1,4 +1,17 @@
 ```
+{{wide
+### Spirit Seeker Spells
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
+|:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
+|1|Speak with Animals|Divination|VS|1 Action|No|Yes|PHB pg.277|
+|2|Beast Sense|Divination|S|1 Action|Yes|Yes|PHB pg.217|
+### Spirit Walker Spells
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
+|:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
+|5|Commune with Nature|Divination|VS|1 Minute|No|Yes|PHB pg.224|
+}}
+```
+```
 {{classTable,wide,frame
 ##### The Barbarian: Totem Warrior
 | Level |Proficiency Bonus | Features | Rages | Rage Damage |
@@ -24,19 +37,6 @@
 | 19th | +6 | Ability Score Improvement | 6 | +4 |
 | 20th | +6 | Primal Champion | Unlimited | +4 |
 
-}}
-```
-```
-{{wide
-### Spirit Seeker Spells
-|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
-|:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
-|1|Speak with Animals|Divination|VS|1 Action|No|Yes|PHB pg.277|
-|2|Beast Sense|Divination|S|1 Action|Yes|Yes|PHB pg.217|
-### Spirit Walker Spells
-|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
-|:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
-|5|Commune with Nature|Divination|VS|1 Minute|No|Yes|PHB pg.224|
 }}
 ```
 ```
