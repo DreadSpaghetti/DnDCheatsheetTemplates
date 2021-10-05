@@ -38,7 +38,7 @@ Blades who abandon their lives as entertainers have often run into trouble that 
 
 
 ### Bonus Proficiencies
-When you join the College of Swords at 3rd level, you gain proficiency with medium armor and the scimitar.
+When you join the College of Swords at 3rd level, you gain proficiency with medium armour and the scimitar.
 
 If you’re proficient with a simple or martial melee weapon, you can use it as a spellcasting focus for your bard spells.
 
