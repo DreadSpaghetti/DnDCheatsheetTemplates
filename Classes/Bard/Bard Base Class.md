@@ -24,6 +24,7 @@
 | 18th | +6 | Magical Secrets | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19th | +6 | Ability Score Improvement, Bardic Versatility (optional tcoe) | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20th | +6 | Superior Inspiration | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+
 }}
 ```
 ```
@@ -67,6 +68,7 @@ Charisma is your spellcasting ability for your bard spells. Your magic comes fro
 **Spell attack modifier** = your proficiency bonus + your Charisma modifier
 }}
 :
+
 #### Ritual Casting
 You can cast any bard spell you know as a ritual if that spell has the ritual tag.
 
