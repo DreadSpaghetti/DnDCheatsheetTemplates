@@ -34,7 +34,7 @@
 **Hit Points at Higher Levels:** :: 1d8 (or 5) + your Constitution modifier per bard level after 1st
 
 #### Proficiencies
-**Armor:** :: Light armour
+**Armour:** :: Light armour
 **Weapons:** :: Simple weapons, hand crossbows, longswords, rapiers, shortswords
 **Tools:** :: Three musical instruments of your choice
 :
