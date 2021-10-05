@@ -26,8 +26,7 @@
 | 20th | +6 | Superior Inspiration | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 }}
-```
-```
+
 #### Hit Points
 **Hit Dice:** :: 1d8 per bard level
 **Hit Points at 1st Level:** :: 8 + your Constitution modifier
