@@ -1,15 +1,15 @@
 ```
 {{classTable,wide,frame
-##### The Bard: Subclass Name
+##### The Bard: Creation
 | Level | Proficiency | Features | Cantrips | Spells | — Spell Slots Per Spell Level —|||||||||
 |^| Bonus^| ^| Known ^| Known ^|1st |2nd |3rd |4th |5th |6th |7th |8th |9th |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1st | +2 | Spellcasting, Bardic Inspiration (d6) | 2 | 4 | 2 | — | — | — | — | — | — | — | — |
 | 2nd | +2 | Jack of All Trades, Song of Rest (d6), Magical Inspiration (optional tcoe) | 2 | 5 | 3 | — | — | — | — | — | — | — | — |
-| 3rd | +2 | Bard College, Expertise | 2 | 6 | 4 | 2 | — | — | — | — | — | — | — |
+| 3rd | +2 | College of Creation,  Note of Potential, Performance of Creation (medium), Expertise | 2 | 6 | 4 | 2 | — | — | — | — | — | — | — |
 | 4th | +2 | Ability Score Improvement, Bardic Versatility (optional tcoe) | 3 | 7 | 4 | 3 | — | — | — | — | — | — | — |
 | 5th | +3 | Bardic Inspiration (d8), Font of Inspiration | 3 | 8 | 4 | 3 | 2 | — | — | — | — | — | — |
-| 6th | +3 | Bard College feature, Countercharm | 3 | 9 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 6th | +3 | Performance of Creation improvement (large), Animating Performance, Countercharm | 3 | 9 | 4 | 3 | 3 | — | — | — | — | — | — |
 | 7th | +3 | — | 3 | 10 | 4 | 3 | 3 | 1 | — | — | — | — | — |
 | 8th | +3 | Ability Score Improvement, Bardic Versatility (optional tcoe) | 3 | 11 | 4 | 3 | 3 | 2 | — | — | — | — | — |
 | 9th | +4 | Song of Rest (d8) | 3 | 12 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
@@ -17,7 +17,7 @@
 | 11th | +4 | — | 4 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
 | 12th | +4 | Ability Score Improvement, Bardic Versatility (optional tcoe) | 4 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
 | 13th | +5 | Song of Rest (d10) | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14th | +5 | Bard College feature, Magical Secrets | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | +5 | Performance of Creation improvement (huge), Creative Crescendo, Magical Secrets | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
 | 15th | +5 | Bardic Inspiration (d12) | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
 | 16th | +5 | Ability Score Improvement, Bardic Versatility (optional tcoe) | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
 | 17th | +6 | Song of Rest (d12) | 4 | 20 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
@@ -26,8 +26,7 @@
 | 20th | +6 | Superior Inspiration | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 }}
-```
-```
+
 #### Hit Points
 **Hit Dice:** :: 1d8 per bard level
 **Hit Points at 1st Level:** :: 8 + your Constitution modifier
