@@ -1,6 +1,6 @@
 ```
 {{classTable,frame
-##### The Fighter: Subclass Name
+##### The Fighter
 | Level | Proficiency Bonus | Features |
 |:---:|:---:|:---|
 | 1st | +2 | Fighting Style, Second Wind |
@@ -26,6 +26,11 @@
 
 }}
 ```
+subclass features table\
+subclass features table\
+subclass features table\
+subclass features table\
+subclass features table
 ```
 #### Hit Points
 **Hit Dice:** :: 1d10 per fighter level

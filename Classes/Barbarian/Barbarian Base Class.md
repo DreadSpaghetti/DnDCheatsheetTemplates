@@ -1,6 +1,6 @@
 ```
 {{classTable,wide,frame
-##### The Barbarian: Subclass Name
+##### The Barbarian
 | Level |Proficiency Bonus | Features | Rages | Rage Damage |
 |:---:|:---:|:---|:---:|:---:|
 | 1st | +2 | Rage, Unarmoured Defence | 2 | +2 |
@@ -26,6 +26,11 @@
 
 }}
 ```
+subclass features table\
+subclass features table\
+subclass features table\
+subclass features table\
+subclass features table
 ```
 #### Hit Points:
 **Hit Dice:** :: 1d12 per barbarian level

@@ -1,7 +1,7 @@
 ```
 {{classTable,wide,frame
 
-##### The Rogue: Subclass Name
+##### The Rogue
 |Level|Proficiency Bonus|Sneak Attack|Features|
 |:---:|:---:|:---:|:---|
 |1st|+2|1d6|Expertise, Sneak Attack, Thieves' Cant|
@@ -27,6 +27,11 @@
 
 }}
 ```
+subclass features table\
+subclass features table\
+subclass features table\
+subclass features table\
+subclass features table
 ```
 #### Hit Points
 **Hit Dice:** :: 1d8 per rogue level

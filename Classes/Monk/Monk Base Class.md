@@ -1,6 +1,6 @@
 ```
 {{classTable,wide,frame
-##### The Monk: Subclass Name
+##### The Monk
 | Level | Proficiency | Martial | Ki | Unarmoured | Features |
 | ^| Bonus ^| Arts ^| Points ^| Movement ^| ^|
 |:---:|:---:|:---:|:---:|:---:|:---|
@@ -26,6 +26,14 @@
 | 20th | +6 | 1d10 | 20 | +30ft | Perfect Self |
 
 }}
+
+##### Way of the SUBCLASS NAME Features
+| Monk Level | Feature |
+| :---: | :--- |
+| 3rd | FEATURE |
+| 6th | FEATURE |
+| 11th | FEATURE |
+| 17th | FEATURE |
 ```
 ```
 #### Hit Points

@@ -1,6 +1,6 @@
 ```
 {{classTable,wide,frame
-##### The Paladin: Subclass Name
+##### The Paladin
 |Level | Proficiency | Features | — Spell Slots per Spell Level — |||||
 | ^|Bonus ^|  ^| 1st |2nd | 3rd | 4th | 5th |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|
@@ -27,6 +27,11 @@
 
 }}
 ```
+subclass features table\
+subclass features table\
+subclass features table\
+subclass features table\
+subclass features table
 ```
 #### Hit Points
 **Hit Dice:** :: 1d10 per paladin level

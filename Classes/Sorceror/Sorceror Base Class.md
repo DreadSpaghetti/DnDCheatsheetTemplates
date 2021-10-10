@@ -1,6 +1,6 @@
 ```
 {{classTable,wide,frame
-##### The Sorceror: Subclass Name
+##### The Sorceror
 | Level | Proficiency |Sorcery | Features | Cantrips | Spells | — Spell Slots Per Spell Level —|||||||||
 |^| Bonus^|Points ^| ^| Known ^| Known ^| 1st |2nd |3rd |4th |5th |6th |7th |8th |9th |
 |:---:|:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -27,6 +27,11 @@
 
 }}
 ```
+subclass features table\
+subclass features table\
+subclass features table\
+subclass features table\
+subclass features table
 ```
 #### Hit Points
 **Hit Dice:** :: 1d6 per sorceror level

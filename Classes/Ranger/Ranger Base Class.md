@@ -1,6 +1,6 @@
 ```
 {{classTable,frame,wide
-##### The Ranger: Subclass Name
+##### The Ranger
 | Level |Proficiency | Features | Spells |— Spell Slots per Spell Level —|||||
 |^| Bonus ^|^|Known^| 1st | 2nd | 3rd | 4th | 5th |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,7 +25,13 @@
 | 19th | +6 | Ability Score Improvement | 11 | 4 | 3 | 3 | 3 | 2 |
 | 20th | +6 | Foe Slayer | 11 | 4 | 3 | 3 | 3 | 2 |
 }}
-
+```
+subclass features table\
+subclass features table\
+subclass features table\
+subclass features table\
+subclass features table
+```
 #### Hit points
 **Hit Dice:** :: 1d10 per ranger level
 **Hit Points at 1st Level:** :: 10 + your Constitution modifier
@@ -167,17 +173,13 @@ You can use a druidic focus as a spellcasting focus for your ranger spells.
 A druidic focus might be a sprig of mistletoe or holly, a wand or rod made of
 yew or another special wood, a staff drawn whole from a living tree, or an object
 incorporating feathers, fur, bones, and teeth from sacred animals.
-
-
-
-Level 3 Subclass Feature
-Level 3 Subclass Feature
-Level 3 Subclass Feature
-Level 3 Subclass Feature
-Level 3 Subclass Feature
-
-
-
+```
+level 3 subclass feature(s)\
+level 3 subclass feature(s)\
+level 3 subclass feature(s)\
+level 3 subclass feature(s)\
+level 3 subclass feature(s)
+```
 ### Primal Awareness (optional tcoe)
 You can focus your awareness through the interconnections of nature: you learn additional spells when you reach certain levels in this class if you don’t already know them, as shown in the Primal Awareness Spells table. These spells don’t count against the number of ranger spells you know.
 
@@ -206,18 +208,14 @@ Whenever you reach a level in this class that grants the Ability Score Improveme
 
 ### Extra Attack
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
-
-
-
-level 7 Subclass Feature
-level 7 Subclass Feature
-level 7 Subclass Feature
-level 7 Subclass Feature
-level 7 Subclass Feature
-level 7 Subclass Feature
-
-
-
+```
+level 7 subclass feature(s)\
+level 7 subclass feature(s)\
+level 7 subclass feature(s)\
+level 7 subclass feature(s)\
+level 7 subclass feature(s)\
+level 7 subclass feature(s)
+```
 ### Land's Stride
 Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
@@ -241,30 +239,22 @@ Once you are camouflaged in this way, you can try to hide by pressing yourself u
 You draw on the powers of nature to hide yourself from view briefly. As a bonus action, you can magically become invisible, along with any equipment you are wearing or carrying, until the start of your next turn.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
-
-
-
-level 11 Subclass Feature
-level 11 Subclass Feature
-level 11 Subclass Feature
-level 11 Subclass Feature
-level 11 Subclass Feature
-
-
-
+```
+level 11 subclass feature(s)\
+level 11 subclass feature(s)\
+level 11 subclass feature(s)\
+level 11 subclass feature(s)\
+level 11 subclass feature(s)
+```
 ### Vanish
 Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can’t be tracked by nonmagical means, unless you choose to leave a trail.
-
-
-
-Level 15 Subclass Feature
-Level 15 Subclass Feature
-Level 15 Subclass Feature
-Level 15 Subclass Feature
-Level 15 Subclass Feature
-
-
-
+```
+Level 15 subclass feature(s)\
+Level 15 subclass feature(s)\
+Level 15 subclass feature(s)\
+Level 15 subclass feature(s)\
+Level 15 subclass feature(s)
+```
 ### Feral Senses
 At 18th level, you gain preternatural senses that help you fight creatures you can’t see. When you attack a creature you can’t see, your inability to see it doesn’t impose disadvantage on your attack rolls against it.
 

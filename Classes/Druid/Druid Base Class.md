@@ -1,6 +1,6 @@
 ```
 {{classTable,wide,frame
-##### The Druid: Subclass Name
+##### The Druid
 | Level | Proficiency | Features | Cantrips | — Spell Slots Per Spell Level —|||||||||
 |^| Bonus^| ^| Known ^| 1st |2nd |3rd |4th |5th |6th |7th |8th |9th |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -27,6 +27,11 @@
 
 }}
 ```
+subclass features table\
+subclass features table\
+subclass features table\
+subclass features table\
+subclass features table
 ```
 #### Hit Points
 **Hit Dice:** :: 1d8 per druid level

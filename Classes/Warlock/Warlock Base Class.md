@@ -1,7 +1,7 @@
 ```
 {{classTable,wide,frame
 
-##### The Warlock: Subclass Name
+##### The Warlock
 | Level | Proficiency | Features | Cantrips | Spells | Spell | Slot | Invocations |
 |^| Bonus^| ^| Known ^| Known ^| Slots ^| Level ^| Known ^|
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|
@@ -28,6 +28,11 @@
 
 }}
 ```
+subclass features table\
+subclass features table\
+subclass features table\
+subclass features table\
+subclass features table
 ```
 #### Hit Points
 **Hit Dice:** :: 1d8 per warlock level
