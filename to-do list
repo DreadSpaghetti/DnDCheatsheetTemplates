@@ -2,6 +2,10 @@ get all the basic subclass features down for all of the classes.
 
 go through and fix any spacing errors still lurking around (races and classes).
 
-fix up all the information so far into v3 format (races and classes).
+fix up all the information so far into v3 format (races and classes). (make a separate branch for this)
 
-get the spell lists into book order.
+put spell lists into order based on sourcebook. (make a separate branch for this)
+
+start on races again. (go in book order, it'll just be easier)
+
+find all subclasses that have multiple sources and add other sources if slight difference (e.g sun soul monk)
