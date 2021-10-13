@@ -68,7 +68,7 @@ The maximum number of ki points you can spend to cast a spell in this way (inclu
 
 **Mist Stance (11th level required).** You can spend 4 ki points to cast *gaseous form*, targeting yourself.
 
-**Ride the Wind (11th level required).** You can spend 4 ki points to cast Fly, targeting yourself.
+**Ride the Wind (11th level required).** You can spend 4 ki points to cast *fly*, targeting yourself.
 
 **Breath of Winter (17th level required).** You can spend 6 ki points to cast *cone of cold*.
 
@@ -77,4 +77,25 @@ The maximum number of ki points you can spend to cast a spell in this way (inclu
 **River of Hungry Flame (17th level required).** You can spend 5 ki points to cast *wall of fire*.
 
 **Wave of Rolling Earth (17th level required).** You can spend 6 ki points to cast *wall of stone*.
+```
+```
+{{wide
+
+### Discipline Spells
+|Spell Level|Spell Name|School|Components|Casting Time|Concentration|Ritual| Source|
+|:---:|:---|:---|:---:|:---:|:---:|:---:|---:|
+|1|Thunderwave|Evocation|VS|1 Action|No|No|PHB pg.282|
+|2|Gust of Wind|Evocation|VSM|1 Action|Yes|No|PHB pg.248|
+|1|Burning Hands|Evocation|VS|1 Action|No|No|PHB pg.220|
+|2|Hold Person|Enchantment|VSM|1 Action|Yes|No|PHB pg.251|
+|2|Shatter|Evocation|VSM|1 Action|No|No|PHB pg.275|
+|3|Fireball|Evocation|VSM|1 Action|No|No|PHB pg.241|
+|3|Gaseous Form|Transmutation|VSM|1 Action|Yes|No|PHB pg.244|
+|3|Fly|Transmutation|VSM|1 Action|Yes|No|PHB pg.243|
+|5|Cone of Cold|Evocation|VSM|1 Action|No|No|PHB pg.224|
+|4|Stoneskin|Abjuration|VSM(gp)|1 Action|Yes|No|PHB pg.278|
+|4|Wall of Fire|Evocation|VSM|1 Action|Yes|No|PHB pg.285|
+|5|Wall of Stone|Evocation|VSM|1 Action|Yes|No|PHB pg.287|
+
+}}
 ```
